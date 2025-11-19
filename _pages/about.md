@@ -34,7 +34,7 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
 Jacob M. Lollis and Mackenzie R. Dobson.<br>
 *PS: Political Science & Politics,* 2025.<br>
-[PDF](/files/Lollis-ps.pdf){: .btn--research} [Publisher](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers/99F9DDDB008114F6D77FB27534575BF3){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
+[pdf](/files/Lollis-ps.pdf){: .btn--research} [doi](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers/99F9DDDB008114F6D77FB27534575BF3){: .btn--research} [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
 <details>
   <summary><b>Abstract</b></summary>
 <i>Are LGBTQ legislators effective lawmakers? We build on theories that link voter discrimination to legislative effectiveness by arguing that voters’ biases against LGBTQ candidates narrow the candidate pool, leading to the election of only the most experienced and qualified LGBTQ candidates. As a result of this electoral selection effect, we expect that LGBTQ legislators will be more effective lawmakers than their non-LGBTQ counterparts. To test this, we combine data on state legislators’ LGBTQ identification with their State Legislative Effectiveness Scores (SLES). Our findings reveal that LGBTQ legislators are meaningfully more effective than non-LGBTQ legislators. To link our findings to voter discrimination, we leverage over-time variation in discrimination toward LGBTQ individuals. Across four tests, we consistently find that LGBTQ lawmakers elected in highdiscrimination environments are more effective than those elected from less discriminatory environments.</i>
@@ -47,7 +47,7 @@ Jacob M. Lollis and Mackenzie R. Dobson.<br>
 **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**  <br>
 Jacob M. Lollis <br>
 *Political Research Quarterly,* 2025  <br>
-[PDF](/files/Lollis-prq.pdf){: .btn--research} [Publisher](https://journals.sagepub.com/doi/epub/10.1177/10659129241289953){: .btn--research} 
+[pdf](/files/Lollis-prq.pdf){: .btn--research} [doi](https://journals.sagepub.com/doi/epub/10.1177/10659129241289953){: .btn--research} 
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -62,7 +62,7 @@ Jacob M. Lollis <br>
  **Are Workers Effective Lawmakers?** <br>
  Jacob M. Lollis <br>
 *State Politics & Policy Quarterly*, 2024. <br>
-[PDF](/files/Lollis-Workers.pdf){: .btn--research} [Publisher](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/are-workers-effective-lawmakers/7752DB8A9F3ABE15AF451CABFADC4F40){: .btn--research} [Replication](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW){: .btn--research}
+[pdf](/files/Lollis-Workers.pdf){: .btn--research} [doi](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/are-workers-effective-lawmakers/7752DB8A9F3ABE15AF451CABFADC4F40){: .btn--research} [replication](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -87,7 +87,7 @@ specifications, the gap between working-class and white-collar legislators’ ef
 **Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**,  <br>
 C. Danielle Vinson and Jacob M. Lollis <br>
 *Congress & The Presidency*, 2023. <br>
-[Publisher](https://doi.org/10.1080/07343469.2023.2174613){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
+[doi](https://doi.org/10.1080/07343469.2023.2174613){: .btn--research} [replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
