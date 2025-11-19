@@ -9,7 +9,10 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <!-- Avatar -->
-  <div class="author__avatar" style="text-align:left; float:none !important;">
+  <div class="author__avatar"
+       style="float:none !important;
+              padding-left:0 !important;
+              margin-left:-30px !important;">
     {% if author.avatar contains "://" %}
       <img
         src="{{ author.avatar }}"
@@ -21,13 +24,13 @@
                border-radius:50% !important;
                object-fit:cover;
                display:block;
-               margin-left:-15px;
+               margin-left:0;
                margin-right:0;"
       >
     {% else %}
       <img
         src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
-        class="author__avatar"
+        class="author__avatar-img"
         alt="{{ author.name }}"
         style="width:230px !important;
                height:230px !important;
@@ -36,7 +39,7 @@
                border-radius:50% !important;
                object-fit:cover;
                display:block;
-               margin-left:-15px;
+               margin-left:0;
                margin-right:0;"
       >
     {% endif %}
