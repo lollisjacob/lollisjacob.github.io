@@ -31,8 +31,8 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
        
 # Publications
 
-**I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers**
-Jacob M. Lollis and Mackenzie R. Dobson. 
+**I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers**<br>
+Jacob M. Lollis and Mackenzie R. Dobson.<br>
 *PS: Political Science & Politics* 2025. [PDF](/files/Lollis-ps.pdf){: .btn--research} [Publisher]([https://www.journals.uchicago.edu/doi/10.1086/738505](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096525000101a.pdf/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers.pdf)){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
 <details>
   <summary><b>Abstract</b></summary>
