@@ -91,7 +91,7 @@ specifications, the gap between working-class and white-collar legislators’ ef
        
 # Working Papers
 
-**Congressional attention to abortion after ***Dobbs*** ** [Paper](/files/Lollis-abortion.pdf){: .btn--research}
+**Congressional attention to abortion after ***Dobbs*** ** (with Mackenzie R. Dobson) [Paper](/files/Lollis-abortion.pdf){: .btn--research}
 
 
 
@@ -103,28 +103,44 @@ specifications, the gap between working-class and white-collar legislators’ ef
 &nbsp;  
 
 ---
-**Competition and Free-Riding in Electoral Campaigns with Outside Spending** (with [Brenton Kenkel](https://bkenkel.com/))
+**Learning in Committee: How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress** [Paper](/files/Lollis-learning.pdf){: .btn--research}
 
-* Presentations: MPSA 2022, APSA MIP Pre-Conference 2022, APSA 2022, Virtual Formal Theory Workshop 2023
+
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Although increased racial diversity has expanded congressional attention to race, we know little about how committee diversity shapes interactions between nonwhite and white legislators—or whether those interactions alter behavior. I argue that in racially diverse committees, white Democrats learn from nonwhite colleagues, leading them to make more evidence-based claims when discussing race. To test this expectation, I combine large-scale text classification with a detailed content analysis of more than 11,000 race-based committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator identification strategy, I find that white Democrats are more likely to reference evidence when discussing race in diverse committees and to cite the same sources as their nonwhite colleagues. I also demonstrate that race-based expertise facilitates substantive representation, as legislators with such expertise are more effective at advancing race legislation. These findings demonstrate that descriptive representation fosters substantive representation in part through identity-based learning in legislative committees.</i>
+</details>
+
+&nbsp;  
+
+
+---
+**The Concentration of Legislative Effectiveness in the American States** (with Todd Makse) [Paper](/files/Lollis-concentration.pdf){: .btn--research}
+
+*Center for Effective Lawmaking Working Paper Series
+
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Research on legislative effectiveness has largely focused on individual-level traits that promote policymaking success. In this paper, we shift attention to how lawmaking success is distributed in state legislatures. We theorize that institutional rules and chamber characteristics shape whether effectiveness is concentrated among few lawmakers or more evenly shared across a chamber’s members—and examine how this variation influences legislators’ behavior. We identify three key findings. First, the distribution of policy success varies widely across chambers and is most concentrated on consequential legislation. Second, smaller chambers and chambers that limit bill introductions are associated with more dispersed lawmaking success. Third, new legislators adapt their collaboration strategies in response to the concentration of effectiveness. These findings highlight the interplay between individual lawmaking effectiveness and the institutional environments in which they operate.  </i>
+</details>
 
 
 &nbsp;  
 
 
 ---
-**Constructing Consensus Ideal Points Using Multi-Source Data** (with [Melody Huang](https://melodyyhuang.com/) and [Tiffany M. Tang](https://tiffanymtang.github.io/))
+**Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy** (with Mackenzie R. Dobson, Jeffrey J. Harden, and Justin H. Kirkland) [Paper](/files/Lollis-cashing.pdf){: .btn--research}
 
-* Presentations: PolMeth 2025
+
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>The steady professionalization of American state legislatures has created a key tension in polit- ical representation: citizens disapprove of professionalized legislatures, on average, yet those legislatures are best equipped to represent their policy preferences. We explain this paradox by arguing that citizens’ disapproval stems from distrust of white-collar legislators—who are overrepresented in professionalized chambers—and their policy priorities, rather than from opposition to institutional reforms that enhance legislative capacity. Using data from a pre- registered conjoint experiment and temporal observational analyses, we find that citizens do not oppose the institutional expansion of legislative capacity. Rather, they react negatively to representation from white-collar lawmakers, whom they associate with professionalized legis- latures. Further, we demonstrate that this opposition is justified; income inequality and poverty have increased with professionalism over time. These findings challenge existing accounts by suggesting that disapproval of professionalism is a rejection of governing by economic elites—not of reforms intended to support legislative capacity.  </i>
+</details>
 
 
 &nbsp;  
-
-
----
-**Asymmetrically Polarized Threat of Replacement**
-
-* Presentations: APSA 2025
-
-
 &nbsp;  
 
