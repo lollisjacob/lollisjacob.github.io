@@ -1,6 +1,6 @@
 {% include base_path %}
 
-{% if page.author && site.data.authors[page.author] %}
+{% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}
 {% else %}
   {% assign author = site.author %}
@@ -8,21 +8,19 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <!-- Avatar container: fixed-size circle -->
-  <div class="author__avatar"
-       style="width:220px;height:220px;border-radius:50%;overflow:hidden;margin:0 auto;">
+  <div class="author__avatar">
     {% if author.avatar contains "://" %}
       <img
         src="{{ author.avatar }}"
         alt="{{ author.name }}"
-        style="width:100%;height:auto;display:block;"
+        style="width:200px;height:200px;border-radius:50%;object-fit:cover;display:block;margin:0 auto;"
       >
     {% else %}
       <img
         src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
         class="author__avatar"
         alt="{{ author.name }}"
-        style="width:100%;height:auto;display:block;"
+        style="width:200px;height:200px;border-radius:50%;object-fit:cover;display:block;margin:0 auto;"
       >
     {% endif %}
   </div>
