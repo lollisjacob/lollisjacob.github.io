@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mellissa Meisels"
+title                    : "Jacob M. Lollis"
 title_separator          : "-"
-name                     : &name "Mellissa Meisels"
+name                     : &name "Jacob M. Lollis"
 description              : &description "Political Scientist"
-url                      : https://mellissameisels.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : lollisjacob.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mellissabm.github.io"
+repository               : "lollisjacob.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mellissa Meisels"
-  avatar           : "MM2023.jpeg"
+  name             : "Jacob M. Lollis"
+  avatar           : "jml.jpeg"
   bio              : "Assistant Professor of Political Science"
-  location         : "24 Hillhouse #205"
-  employer         : "Yale University"
+  location         : "Clifton Court Hall"
+  employer         : "University of Cincinnati"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=kvzwTj8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=u5Eym6MAAAAJ&hl=en&oi=ao"
   cv               :
-  email            : "mellissa.meisels@yale.edu"
+  email            : "lollisjm@ucmail.uc.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mellissabm"
+  github           : "lollisjacob"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "mellissameisels"
+  twitter          : "jacob__lollis"
   vine             :
   weibo            :
   xing             :
