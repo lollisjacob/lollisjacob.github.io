@@ -9,7 +9,7 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <!-- Avatar -->
-  <div class="author__avatar" style="text-align:center; float:none !important;">
+  <div class="author__avatar" style="text-align:left; float:none !important;">
     {% if author.avatar contains "://" %}
       <img
         src="{{ author.avatar }}"
@@ -20,8 +20,9 @@
                max-height:none !important;
                border-radius:50% !important;
                object-fit:cover;
-               display:inline-block;
-               margin:0 auto;"
+               display:block;
+               margin-left:0;
+               margin-right:auto;"
       >
     {% else %}
       <img
@@ -34,8 +35,9 @@
                max-height:none !important;
                border-radius:50% !important;
                object-fit:cover;
-               display:inline-block;
-               margin:0 auto;"
+               display:block;
+               margin-left:0;
+               margin-right:auto;"
       >
     {% endif %}
   </div>
@@ -139,7 +141,7 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{https://orcid.org/0000-0002-5917-0835}}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="https://orcid.org/0000-0002-5917-0835"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
