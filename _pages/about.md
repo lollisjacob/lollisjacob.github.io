@@ -31,7 +31,7 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
        
 # Publications
 
-**Lollis, Jacob M.** and Mackenzie R. Dobson. 2025. **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers**, *PS: Political Science & Politics* [PDF](/files/Lollis-ps.pdf){: .btn--research} [Publisher]([https://www.journals.uchicago.edu/doi/10.1086/738505](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096525000101a.pdf/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers.pdf)){: .btn--research} [Replication]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/X7O80B)){: .btn--research}
+**Lollis, Jacob M.** and Mackenzie R. Dobson. 2025. **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers**, *PS: Political Science & Politics* [PDF](/files/Lollis-ps.pdf){: .btn--research} [Publisher]([https://www.journals.uchicago.edu/doi/10.1086/738505](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096525000101a.pdf/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers.pdf)){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -42,8 +42,7 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 &nbsp;  
 
 ---
-**Lollis, Jacob M.** 2025. **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings
-**, *Political Research Quarterly* [PDF](/files/Lollis-prq.pdf){: .btn--research} [Publisher]([https://doi.org/10.1073/pnas.2503080122](https://journals.sagepub.com/doi/epub/10.1177/10659129241289953)){: .btn--research} {: .btn--research}
+**Lollis, Jacob M.** 2025. **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**, *Political Research Quarterly* [PDF](/files/Lollis-prq.pdf){: .btn--research} [Publisher]([https://doi.org/10.1073/pnas.2503080122](https://journals.sagepub.com/doi/epub/10.1177/10659129241289953)){: .btn--research} {: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
