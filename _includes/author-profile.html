@@ -21,8 +21,8 @@
                border-radius:50% !important;
                object-fit:cover;
                display:block;
-               margin-left:0;
-               margin-right:auto;"
+               margin-left:-15px;
+               margin-right:0;"
       >
     {% else %}
       <img
@@ -36,8 +36,8 @@
                border-radius:50% !important;
                object-fit:cover;
                display:block;
-               margin-left:0;
-               margin-right:auto;"
+               margin-left:-15px;
+               margin-right:0;"
       >
     {% endif %}
   </div>
@@ -141,7 +141,7 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="https://orcid.org/0000-0002-5917-0835"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
