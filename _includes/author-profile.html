@@ -8,18 +8,19 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <!-- Avatar -->
+  <div class="author__avatar" style="text-align:center; float:none !important;">
     {% if author.avatar contains "://" %}
       <img
         src="{{ author.avatar }}"
         alt="{{ author.name }}"
-        style="width:260px !important;
-               height:260px !important;
+        style="width:230px !important;
+               height:230px !important;
                max-width:none !important;
                max-height:none !important;
                border-radius:50% !important;
                object-fit:cover;
-               display:block;
+               display:inline-block;
                margin:0 auto;"
       >
     {% else %}
@@ -27,13 +28,13 @@
         src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
         class="author__avatar"
         alt="{{ author.name }}"
-        style="width:260px !important;
-               height:260px !important;
+        style="width:230px !important;
+               height:230px !important;
                max-width:none !important;
                max-height:none !important;
                border-radius:50% !important;
                object-fit:cover;
-               display:block;
+               display:inline-block;
                margin:0 auto;"
       >
     {% endif %}
@@ -138,7 +139,7 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="{{https://orcid.org/0000-0002-5917-0835}}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
