@@ -21,11 +21,9 @@ redirect_from:
   - /cv/
 ---
 
-Welcome! I am an Assistant Professor in the [Department of Political Science](https://politicalscience.yale.edu/people/mellissa-meisels) at Yale University, where I am affiliated with [Institution for Social and Policy Studies (ISPS)](https://isps.yale.edu/team/mellissa-meisels) and [Center for the Study of American Politics (CSAP)](https://csap.yale.edu/people/mellissa-meisels).
+Welcome! I am an Assistant Professor in the [School of Public and International Affairs](https://researchdirectory.uc.edu/p/lollisjm?_gl=1*17pws97*_ga*MTU3NTg4MDI5My4xNzU5MjY4MzQx*_ga_7H1FCKXZ4Y*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTczJGoyNiRsMCRoMA..*_ga_LSJTQ7TZ38*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..*_ga_CWY9357HWN*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..) at the University of Cincinnati. I study American legislatures, campaigns and elections, and how race, class, and LGBTQ+ identities shape electoral and legislative politics. I am a quantitative social scientist and integrate big data, machine learning, and causal inference methods in my work. My research is published in outlets such as *Political Research Quarterly*, *PS: Political Science & Politics*, and *State Politics & Policy Quarterly*.
 
-My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the strategic choices of candidates and financial contributors in congressional campaigns, with an emphasis on primary elections. To do so, I employ original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models. My research is forthcoming and published in *Proceedings of the National Academy of Sciences, Journal of Politics, British Journal of Political Science*, and *Political Science Research and Methods.*
-
-Previously, I was a postdoctoral fellow at CSAP and a [Democracy Center Visiting Scholar](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html) at the University of Rochester. I received my Ph.D. in Political Science at [Vanderbilt University](https://www.vanderbilt.edu/political-science/), where I was affiliated with the [Center for the Study of Democratic Institutions (CSDI)](https://www.vanderbilt.edu/csdi/). I graduated *magna cum laude* with a B.A. in political science from [UCLA](https://polisci.ucla.edu/). I am originally from Portland, Oregon.
+I received my Ph.D. in Political Science from the University of Virginia in 2025. Before UVA, I earned a B.A. in Politics and International Affairs, with a minor in Poverty Studies, from Furman University.
 
 &nbsp;
 
