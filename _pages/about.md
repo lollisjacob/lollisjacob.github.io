@@ -89,18 +89,15 @@ specifications, the gap between working-class and white-collar legislators’ ef
 ---
 
        
-# Papers
+# Working Papers
 
-**Campaign Agendas and Issue Group Strategy in Congressional Primaries** [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
+**Congressional attention to abortion after ***Dobbs*** ** [Paper](/files/Lollis-abortion.pdf){: .btn--research}
 
 
-* Winner of 2023 Political Organizations and Parties Best APSA Paper Award
-
-* Presentations: APSA MIP Pre-Conference 2023, APSA 2023, Junior Americanist Workshop Series 2023, MPSA 2024, UChicago Harris Center for Effective Government American Politics Conference 2024
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Which candidates do issue–focused PACs support? Longstanding theories suggest an emphasis on either accessing friendly incumbents or helping elect new potential allies, yet systematic evaluation requires information on candidate–side issue priorities. I combine an original dataset of all available House primary candidates’ policy platforms spanning 2016 through 2024 with FEC receipts and bill summaries to measure campaign attention, PAC contributions, and legislative behavior across 42,000 candidate–issue–year observations. Using a series of within–candidate research designs, I first demonstrate that candidates raise more money from groups related to their campaign issues. Leveraging changes in officeholder status, I then show that a substantially larger incumbency advantage in issue PAC fundraising is afforded to such “issue champions” — a difference not explained by actual legislative activity. These results provide new evidence that policy–demanding groups use campaign rhetoric to identify and foster relationships with potential champions of their cause during the increasingly important primary stage of congressional elections.</i>
+<i>The Supreme Court’s 2022 decision in Dobbs eliminated the federal constitutional right to abortion. Existing work examines how the decision affected voters’ attitudes and candidates’ campaign strategies, but legislators’ reactions remain understudied. We argue that legislators increased their attention to abortion after Dobbs only when gendered representational incentives and party-based electoral incentives aligned. For female Democrats, these incentives reinforce one another, jointly encouraging greater attention to abortion. Female Republicans, however, face gendered representational considerations that encourage attention to abortion, while party-based incentives make such attention electorally costly. Among male legislators, partisan incentives alone are insufficient: although male Democrats have a party-based incentive to increase attention, they lack a gendered incentive. We test this argument by identifying abortion references in nearly 1.6 million statements from U.S. House committee hearings. Difference-in-differences (DiD) estimates show no pre-Dobbs gender or party differences; after the decision, however, female Democrats durably increased their attention to abortion relative to female Republicans, with no change among male legislators.</i>
 </details>
    
 &nbsp;  
