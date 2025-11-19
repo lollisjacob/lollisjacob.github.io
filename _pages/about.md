@@ -62,7 +62,7 @@ Jacob M. Lollis <br>
  **Are Workers Effective Lawmakers?** <br>
  Jacob M. Lollis <br>
 *State Politics & Policy Quarterly*, 2024. <br>
-[PDF](/files/Lollis-Workers.pdf){: .btn--research} [Publisher](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7752DB8A9F3ABE15AF451CABFADC4F40/S1532440024000082a.pdf/are-workers-effective-lawmakers.pdf){: .btn--research} [Replication](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW){: .btn--research}
+[PDF](/files/Lollis-Workers.pdf){: .btn--research} [Publisher](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/are-workers-effective-lawmakers/7752DB8A9F3ABE15AF451CABFADC4F40){: .btn--research} [Replication](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
