@@ -59,7 +59,10 @@ Jacob M. Lollis <br>
 
 ---
 
-**Lollis, Jacob M.** 2024. **Are Workers Effective Lawmakers?**, *State Politics & Policy Quarterly*. [PDF](/files/Lollis-Workers.pdf){: .btn--research} [Publisher]([https://doi.org/10.1017/psrm.2025.23](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7752DB8A9F3ABE15AF451CABFADC4F40/S1532440024000082a.pdf/are-workers-effective-lawmakers.pdf)){: .btn--research} [Replication]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW)){: .btn--research}
+ **Are Workers Effective Lawmakers?** <br>
+ Jacob M. Lollis <br>
+*State Politics & Policy Quarterly*, 2024. <br>
+[PDF](/files/Lollis-Workers.pdf){: .btn--research} [Publisher]([https://doi.org/10.1017/psrm.2025.23](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7752DB8A9F3ABE15AF451CABFADC4F40/S1532440024000082a.pdf/are-workers-effective-lawmakers.pdf)){: .btn--research} [Replication]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW)){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -81,7 +84,10 @@ specifications, the gap between working-class and white-collar legislators’ ef
 
 ---
 
-**Jacob M. Lollis**. 2024. **Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**, *Congress & The Presidency*. [Publisher](h[ttps://doi.org/10.1017/S0007123423000650](https://www.tandfonline.com/doi/abs/10.1080/07343469.2023.2174613)){: .btn--research} [Replication]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
+**Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**,  <br>
+C. Danielle Vinson and Jacob M. Lollis <br>
+*Congress & The Presidency*, 2023. <br>
+[Publisher]([https://doi.org/10.1017/S0007123423000650](https://www.tandfonline.com/doi/abs/10.1080/07343469.2023.2174613)){: .btn--research} [Replication]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
