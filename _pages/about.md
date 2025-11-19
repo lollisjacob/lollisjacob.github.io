@@ -31,7 +31,7 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
        
 # Publications
 
-Meisels, Mellissa. 2025. **Candidate Positions, Responsiveness, and Returns to Extremism.** Forthcoming, *Journal of Politics.* [PDF](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
+**Lollis, Jacob M.** and Mackenzie R. Dobson. 2025. **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers**, *PS: Political Science & Politics* [PDF](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
