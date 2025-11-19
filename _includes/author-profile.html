@@ -13,14 +13,28 @@
       <img
         src="{{ author.avatar }}"
         alt="{{ author.name }}"
-        style="width:200px;height:200px;border-radius:50%;object-fit:cover;display:block;margin:0 auto;"
+        style="width:260px !important;
+               height:260px !important;
+               max-width:none !important;
+               max-height:none !important;
+               border-radius:50% !important;
+               object-fit:cover;
+               display:block;
+               margin:0 auto;"
       >
     {% else %}
       <img
         src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
         class="author__avatar"
         alt="{{ author.name }}"
-        style="width:200px;height:200px;border-radius:50%;object-fit:cover;display:block;margin:0 auto;"
+        style="width:260px !important;
+               height:260px !important;
+               max-width:none !important;
+               max-height:none !important;
+               border-radius:50% !important;
+               object-fit:cover;
+               display:block;
+               margin:0 auto;"
       >
     {% endif %}
   </div>
