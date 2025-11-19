@@ -87,7 +87,8 @@ specifications, the gap between working-class and white-collar legislators’ ef
 **Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**,  <br>
 C. Danielle Vinson and Jacob M. Lollis <br>
 *Congress & The Presidency*, 2023. <br>
-[Publisher]([https://doi.org/10.1017/S0007123423000650](https://www.tandfonline.com/doi/abs/10.1080/07343469.2023.2174613)){: .btn--research} [Replication]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
+ [Publisher]([[https://www.journals.uchicago.edu/doi/10.1086/738505]){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
+[Publisher]([https://doi.org/10.1017/S0007123423000650](https://www.tandfonline.com/doi/abs/10.1080/07343469.2023.2174613)){: .btn--research} [Replication]([[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ]{: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
