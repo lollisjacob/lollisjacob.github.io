@@ -31,9 +31,10 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
        
 # Publications
 
-**I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers**<br>
+**I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
 Jacob M. Lollis and Mackenzie R. Dobson.<br>
-*PS: Political Science & Politics* 2025. [PDF](/files/Lollis-ps.pdf){: .btn--research} [Publisher]([https://www.journals.uchicago.edu/doi/10.1086/738505](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096525000101a.pdf/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers.pdf)){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
+*PS: Political Science & Politics,* 2025.<br>
+[PDF](/files/Lollis-ps.pdf){: .btn--research} [Publisher]([https://www.journals.uchicago.edu/doi/10.1086/738505](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096525000101a.pdf/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers.pdf)){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
 <details>
   <summary><b>Abstract</b></summary>
 <i>Are LGBTQ legislators effective lawmakers? We build on theories that link voter discrimination to legislative effectiveness by arguing that voters’ biases against LGBTQ candidates narrow the candidate pool, leading to the election of only the most experienced and qualified LGBTQ candidates. As a result of this electoral selection effect, we expect that LGBTQ legislators will be more effective lawmakers than their non-LGBTQ counterparts. To test this, we combine data on state legislators’ LGBTQ identification with their State Legislative Effectiveness Scores (SLES). Our findings reveal that LGBTQ legislators are meaningfully more effective than non-LGBTQ legislators. To link our findings to voter discrimination, we leverage over-time variation in discrimination toward LGBTQ individuals. Across four tests, we consistently find that LGBTQ lawmakers elected in highdiscrimination environments are more effective than those elected from less discriminatory environments.</i>
@@ -43,7 +44,10 @@ Jacob M. Lollis and Mackenzie R. Dobson.<br>
 &nbsp;  
 
 ---
-**Lollis, Jacob M.** 2025. **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**, *Political Research Quarterly* [PDF](/files/Lollis-prq.pdf){: .btn--research} [Publisher]([https://doi.org/10.1073/pnas.2503080122](https://journals.sagepub.com/doi/epub/10.1177/10659129241289953)){: .btn--research} {: .btn--research}
+**Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**  <br>
+Jacob M. Lollis <br>
+*Political Research Quarterly,* 2025  <br>
+[PDF](/files/Lollis-prq.pdf){: .btn--research} [Publisher]([https://doi.org/10.1073/pnas.2503080122](https://journals.sagepub.com/doi/epub/10.1177/10659129241289953)){: .btn--research} 
 
 <details>
   <summary><b>Abstract</b></summary>
