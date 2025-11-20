@@ -103,7 +103,7 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 
 **Congressional attention to abortion after *Dobbs***  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
-Status: Pre-Review
+Status: Pre-Review  <br>
 [Paper](/files/Lollis-abortion.pdf){: .btn--research}
 
 
@@ -132,13 +132,10 @@ Status: Under Review  <br>
 
 
 ---
-**The Concentration of Legislative Effectiveness in the American States**
-Jacob M. Lollis and Todd Makse
-Status: Under Reveiw
+**The Concentration of Legislative Effectiveness in the American States**  <br>
+Jacob M. Lollis and Todd Makse  <br>
+Status: Under Reveiw  <br>
 [Paper](/files/Lollis-concentration.pdf){: .btn--research}
-
-*Center for Effective Lawmaking Working Paper Series
-
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -150,7 +147,10 @@ Status: Under Reveiw
 
 
 ---
-**Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy** (with Mackenzie R. Dobson, Jeffrey J. Harden, and Justin H. Kirkland) [Paper](/files/Lollis-cashing.pdf){: .btn--research}
+**Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy** <br>
+Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
+Status: Under Review <br>
+[Paper](/files/Lollis-cashing.pdf){: .btn--research}
 
 
 
