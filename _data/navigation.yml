@@ -1,9 +1,7 @@
 main:
   - title: "CV"
-    url: /files/CV_Lollis.pdf
-
+    url: /files/Lollis_CV.pdf
   - title: "Publications"
     url: /#publications
-
   - title: "Working Papers"
-    url: /#papers
+    url: /#working-papers
