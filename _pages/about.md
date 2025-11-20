@@ -116,7 +116,10 @@ Status: Pre-Review
 &nbsp;  
 
 ---
-**Learning in Committee: How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress** [Paper](/files/Lollis-learning.pdf){: .btn--research}
+**Learning in Committee: How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
+Jacob M. Lollis  <br>
+Status: Under Review  <br>
+[Paper](/files/Lollis-learning.pdf){: .btn--research}
 
 
 
@@ -129,7 +132,10 @@ Status: Pre-Review
 
 
 ---
-**The Concentration of Legislative Effectiveness in the American States** (with Todd Makse) [Paper](/files/Lollis-concentration.pdf){: .btn--research}
+**The Concentration of Legislative Effectiveness in the American States**
+Jacob M. Lollis and Todd Makse
+Status: Under Reveiw
+[Paper](/files/Lollis-concentration.pdf){: .btn--research}
 
 *Center for Effective Lawmaking Working Paper Series
 
