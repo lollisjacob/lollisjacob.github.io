@@ -10,6 +10,16 @@
  *
 */
 
+---
+# Only the three dashes; no layout
+---
+// Minimal Mistakes core
+@import "minimal-mistakes/skins/default"; // or your skin
+@import "minimal-mistakes";               // theme styles
+
+// Your overrides below
+@import "custom/mobile";
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
