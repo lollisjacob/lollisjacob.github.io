@@ -1,25 +1,12 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+@import "minimal-mistakes/skins/default"; // choose a skin first
+@import "minimal-mistakes";               // load the theme
 
----
-# Only the three dashes; no layout
----
-// Minimal Mistakes core
----
-# only three dashes
----
-@import "minimal-mistakes/skins/default";
-@import "minimal-mistakes";
-@import "custom/mobile";   // <- this pulls in _sass/custom/_mobile.scss
+/* Put YOUR overrides last so they win the cascade */
+@import "custom/mobile";                  // mobile fixes (author card + follow button)
+
 
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
