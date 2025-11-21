@@ -1,34 +1,35 @@
-/* Stack avatar above name/title on small screens */
+/* Force avatar ABOVE name/title on phones */
 @media (max-width: 700px) {
-  /* Make the avatar centered and a bit smaller */
+  /* Catch common wrappers */
+  .author__bio,
+  .author__profile,
+  .author-profile,
+  .h-card {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
   .author__avatar {
     float: none !important;
-    display: block;
+    display: block !important;
     margin: 0 auto 0.75rem !important;
-    text-align: center;
+    text-align: center !important;
   }
+
   .author__avatar img {
     width: 140px;
     height: 140px;
   }
 
-  /* Put the text block below the image and center it */
-  .author__content,
-  .author__bio {
+  .author__content {
     float: none !important;
     width: 100% !important;
-    display: block;
-    text-align: center;
-    margin: 0 auto;
+    margin: 0 !important;
+    text-align: center !important;
   }
 
-  /* Tweak heading sizes/spacing for phones */
+  /* Optional: tighten heading spacing */
   .author__content h1,
-  .author__content h2 {
-    margin: 0.25rem 0 0.5rem;
-    line-height: 1.25;
-  }
-
-  /* Keep images responsive */
-  img { max-width: 100%; height: auto; }
+  .author__content h2 { margin: 0.25rem 0 0.5rem; line-height: 1.25; }
 }
