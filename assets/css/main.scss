@@ -14,11 +14,13 @@
 # Only the three dashes; no layout
 ---
 // Minimal Mistakes core
-@import "minimal-mistakes/skins/default"; // or your skin
-@import "minimal-mistakes";               // theme styles
+---
+# only three dashes
+---
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+@import "custom/mobile";   // <- this pulls in _sass/custom/_mobile.scss
 
-// Your overrides below
-@import "custom/mobile";
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
