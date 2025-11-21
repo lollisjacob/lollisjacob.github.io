@@ -1,6 +1,34 @@
+/* Stack avatar above name/title on small screens */
 @media (max-width: 700px) {
-  .author__avatar img { width: 96px; height: 96px; }
-  .page__content h1 { font-size: 1.6rem; }
-  .page__content h2 { font-size: 1.3rem; }
+  /* Make the avatar centered and a bit smaller */
+  .author__avatar {
+    float: none !important;
+    display: block;
+    margin: 0 auto 0.75rem !important;
+    text-align: center;
+  }
+  .author__avatar img {
+    width: 140px;
+    height: 140px;
+  }
+
+  /* Put the text block below the image and center it */
+  .author__content,
+  .author__bio {
+    float: none !important;
+    width: 100% !important;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  /* Tweak heading sizes/spacing for phones */
+  .author__content h1,
+  .author__content h2 {
+    margin: 0.25rem 0 0.5rem;
+    line-height: 1.25;
+  }
+
+  /* Keep images responsive */
   img { max-width: 100%; height: auto; }
 }
