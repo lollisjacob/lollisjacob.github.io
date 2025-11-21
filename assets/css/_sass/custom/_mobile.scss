@@ -1,0 +1,21 @@
+/* Mobile adjustments */
+@media (max-width: 700px) {
+  /* shrink big headings a tad */
+  .page__content h1 { font-size: 1.6rem; }
+  .page__content h2 { font-size: 1.3rem; }
+
+  /* make the headshot smaller and centered */
+  .author__avatar img { width: 96px; height: 96px; }
+  .author__content { text-align: center; }
+  .author__urls-wrapper { justify-content: center; }
+
+  /* tighten nav spacing and prevent wrapping chaos */
+  .greedy-nav a { padding: 0.4rem 0.6rem; }
+  .site-logo img { max-height: 32px; }
+
+  /* images never overflow */
+  img, .page__content img { max-width: 100%; height: auto; }
+
+  /* optional: hide the sidebar on extra-small screens */
+  .sidebar { display: none; }
+}
