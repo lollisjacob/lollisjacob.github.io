@@ -22,3 +22,44 @@
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css?v={{ site.time | date: '%s' }}">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css?v={{ site.time | date: '%s' }}">
+
+<!-- Mobile author card hot-fix -->
+<style id="mobile-author-hotfix">
+/* broad match so it wins, plus !important everywhere */
+@media screen and (max-width: 900px) {
+  /* stack avatar, name/title block, and links */
+  .sidebar .author__avatar,
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper,
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: block !important;
+    width: 100% !important;
+    float: none !important;
+    padding: 0 !important;
+    margin: 0 auto 0.75rem !important;
+    text-align: center !important;
+  }
+
+  .author__avatar img {
+    max-width: 175px !important;
+    height: auto !important;
+  }
+
+  /* keep social list inside the card and centered */
+  .author__urls {
+    position: static !important;
+    display: block !important;
+    text-align: center !important;
+  }
+
+  /* hide stray Follow widget/button that overflows on phones */
+  .github-button,
+  iframe[title*="Follow"],
+  a[aria-label*="Follow"],
+  a[title*="Follow"] {
+    display: none !important;
+  }
+}
+</style>
