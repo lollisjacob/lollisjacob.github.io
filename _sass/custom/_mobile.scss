@@ -1,38 +1,32 @@
-/* Stack avatar ABOVE name/title on phones (Minimal Mistakes markup) */
+/* === Fix author card on phones: stack & hide stray follow button === */
 @media (max-width: 700px) {
-  /* the wrapper for the profile card */
-  .author__bio {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-  }
-
-  /* left column by default -> center it and remove floats */
-  .author__bio .author__avatar {
-    float: none !important;
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
     display: block !important;
+    width: 100% !important;
+    float: none !important;
+    padding: 0 !important;
     margin: 0 auto 0.75rem !important;
     text-align: center !important;
   }
-  .author__bio .author__avatar img {
-    width: 150px !important;
-    height: 150px !important;
-    object-fit: cover;
+
+  .author__avatar img {
+    max-width: 175px !important;
+    height: auto !important;
   }
 
-  /* right column -> full-width below avatar */
-  .author__bio .author__content {
-    float: none !important;
-    width: 100% !important;
-    margin: 0 !important;
+  .author__urls {
+    position: static !important;
+    display: block !important;
     text-align: center !important;
   }
 
-  /* hide the stray GitHub follow button */
+  /* Hide stray “Follow” widgets that overflow on small screens */
   .github-button,
+  iframe[title*="Follow"],
   a[aria-label*="Follow"],
-  a[title*="Follow"],
-  iframe[title*="Follow"] {
+  a[title*="Follow"] {
     display: none !important;
   }
 }
