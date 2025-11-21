@@ -5,11 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# use Minimal Mistakes via remote_theme
-remote_theme: "mmistakes/minimal-mistakes@4.26.0"
-
-# disable the default GitHub theme
-theme: null
 
 # Site Settings
 locale                   : "en-US"
