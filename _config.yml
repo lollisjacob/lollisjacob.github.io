@@ -11,9 +11,9 @@ title                    : "Jacob M. Lollis"
 title_separator          : "-"
 name                     : &name "Jacob M. Lollis"
 description              : &description "Political Scientist"
-url                      : "https://lollisjacob.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lollisjacob.github.io"
+url                      : "https://jacobmlollis.com"  # UPDATED from lollisjacob.github.io
+baseurl                  : ""                           # root site => keep empty
+repository               : "lollisjacob/lollisjacob.github.io"  # UPDATED to owner/repo
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -230,8 +230,6 @@ defaults:
       comments: true
 
 
-
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -262,15 +260,6 @@ whitelist:
 
 
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
