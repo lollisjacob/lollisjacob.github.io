@@ -1,59 +1,21 @@
-<!-- Hide any possible "Follow" UI (anchors/iframes) -->
-<style>
-  .github-button,
-  iframe[src*="buttons.github.io"],
-  iframe[src*="github.com/buttons"],
-  iframe[title*="Follow"],
-  a[aria-label*="Follow"],
-  a[title*="Follow"],
-  a[data-ga-click*="Follow"],
-  .btn[aria-label^="Follow"] {
-    display: none !important;
-    visibility: hidden !important;
-    width: 0 !important;
-    height: 0 !important;
-    overflow: hidden !important;
-  }
-</style>
+{% include base_path %}
 
-<!-- Actively remove anything matching those selectors, even if injected late -->
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <script>
-  (function() {
-    var SELECTORS = [
-      '.github-button',
-      'iframe[src*="buttons.github.io"]',
-      'iframe[src*="github.com/buttons"]',
-      'iframe[title*="Follow"]',
-      'a[aria-label*="Follow"]',
-      'a[title*="Follow"]',
-      'a[data-ga-click*="Follow"]',
-      '.btn[aria-label^="Follow"]',
-      'script[src*="buttons.github.io"]'
-    ].join(',');
-
-    function purge() {
-      document.querySelectorAll(SELECTORS).forEach(function(n){
-        // remove parent wrappers that often size the iframe
-        if (n.parentElement && n.parentElement.childElementCount === 1) {
-          n.parentElement.remove();
-        } else {
-          n.remove();
-        }
-      });
-    }
-
-    // 1) Right now
-    purge();
-
-    // 2) After load (covers late async)
-    window.addEventListener('load', function(){
-      purge();
-      setTimeout(purge, 300);
-      setTimeout(purge, 1000);
-    });
-
-    // 3) If anything new appears later, kill it on sight
-    var mo = new MutationObserver(function() { purge(); });
-    mo.observe(document.documentElement, { childList: true, subtree: true });
-  })();
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
