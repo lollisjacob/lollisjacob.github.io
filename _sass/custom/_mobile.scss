@@ -1,66 +1,38 @@
-/* Mobile profile layout override */
+/* Stack avatar ABOVE name/title on phones (Minimal Mistakes markup) */
 @media (max-width: 700px) {
-
-  /* 1) Turn common profile wrappers into a vertical stack */
-  .author__bio,
-  .author__profile,
-  .author-profile,
-  .h-card,
-  .vcard,
-  .intro,
-  .profile,
-  .page-header,
-  .post-header {
+  /* the wrapper for the profile card */
+  .author__bio {
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
   }
 
-  /* 2) Avatar: centered, above text */
-  .author__avatar,
-  .avatar,
-  .profile .avatar {
+  /* left column by default -> center it and remove floats */
+  .author__bio .author__avatar {
     float: none !important;
     display: block !important;
     margin: 0 auto 0.75rem !important;
     text-align: center !important;
   }
-
-  .author__avatar img,
-  .avatar img,
-  img.avatar {
-    width: 160px;
-    height: 160px;
+  .author__bio .author__avatar img {
+    width: 150px !important;
+    height: 150px !important;
     object-fit: cover;
   }
 
-  /* 3) Name + title block: full width, centered, below avatar */
-  .author__content,
-  .author-info,
-  .profile-text,
-  .intro-text,
-  .h-card .p-name,
-  .h-card .p-job-title {
+  /* right column -> full-width below avatar */
+  .author__bio .author__content {
     float: none !important;
     width: 100% !important;
-    margin: 0.25rem 0 0.5rem !important;
+    margin: 0 !important;
     text-align: center !important;
   }
 
-  /* 4) Kill floats that keep the right column stuck on the side */
-  [class*="pull-right"],
-  [class*="float-right"],
-  .right,
-  .sidebar-right {
-    float: none !important;
-  }
-
-  /* 5) Hide the dangling Follow button on small screens */
+  /* hide the stray GitHub follow button */
   .github-button,
-  .btn-follow,
-  .follow,
   a[aria-label*="Follow"],
-  a[title*="Follow"] {
+  a[title*="Follow"],
+  iframe[title*="Follow"] {
     display: none !important;
   }
 }
