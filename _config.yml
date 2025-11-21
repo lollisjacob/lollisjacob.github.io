@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google"
+  provider               :  
   google:
-    tracking_id          : G-KSX0S8HR03
+    tracking_id          : 
 
 
 # Site Author
