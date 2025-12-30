@@ -46,7 +46,7 @@ Jacob M. Lollis and Mackenzie R. Dobson.<br>
 ---
 **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**  <br>
 Jacob M. Lollis <br>
-*Political Research Quarterly,* 2025  <br>
+*Political Research Quarterly,* 2025.  <br>
 [PDF](/files/Lollis-prq.pdf){: .btn--research} [DOI](https://doi.org/10.1177/10659129241289953){: .btn--research} 
 
 <details>
