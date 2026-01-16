@@ -21,7 +21,7 @@ redirect_from:
   - /cv/
 ---
 
-Welcome! I am an **Assistant Professor of Political Science** in the [School of Public and International Affairs](https://researchdirectory.uc.edu/p/lollisjm?_gl=1*17pws97*_ga*MTU3NTg4MDI5My4xNzU5MjY4MzQx*_ga_7H1FCKXZ4Y*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTczJGoyNiRsMCRoMA..*_ga_LSJTQ7TZ38*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..*_ga_CWY9357HWN*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..) at the **University of Cincinnati**. I am also a Research Affiliate with the Portman Center for Policy Solutions. 
+Welcome! I am an **Assistant Professor of Political Science** in the [School of Public and International Affairs](https://researchdirectory.uc.edu/p/lollisjm?_gl=1*17pws97*_ga*MTU3NTg4MDI5My4xNzU5MjY4MzQx*_ga_7H1FCKXZ4Y*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTczJGoyNiRsMCRoMA..*_ga_LSJTQ7TZ38*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..*_ga_CWY9357HWN*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..) at the **University of Cincinnati**. I am also a Research Affiliate with the [Portman Center for Policy Solutions](https://www.artsci.uc.edu/social-sciences/public-and-international-affairs/portman-center.html). 
 
 I study American legislatures, with a particular focus on Congress, campaigns and elections, and identity. I specialize in quantitative methods and use big data, machine learning, and causal inference in my research. My work is published in outlets such as *Political Research Quarterly*, *PS: Political Science & Politics*, and *State Politics & Policy Quarterly*.
 
