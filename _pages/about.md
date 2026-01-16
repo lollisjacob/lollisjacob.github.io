@@ -105,8 +105,8 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 
 **Congressional attention to abortion after *Dobbs***  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
-Status: Pre-Review  <br>
-[Paper](/files/Lollis-abortion.pdf){: .btn--research}
+Status: Under Review  <br>
+[Paper](/files/Lollis_Dobson_2025.pdf){: .btn--research}
 
 
 
