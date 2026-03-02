@@ -155,14 +155,29 @@ Status: Under Review  <br>
 
 
 ---
-**The Concentration of Legislative Effectiveness in the American States**  <br>
+**Measuring the Concentration of Legislative
+Effectiveness: Evidence from U.S. State Legislatures**  <br>
 Jacob M. Lollis and Todd Makse  <br>
 Status: Under Reveiw  <br>
-[Paper](/files/Lollis-concentration.pdf){: .btn--research}
+[Paper](/files/Lollis-ELR.pdf){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Research on legislative effectiveness has largely focused on individual-level traits that promote policymaking success. In this paper, we shift attention to how lawmaking success is distributed in state legislatures. We theorize that institutional rules and chamber characteristics shape whether effectiveness is concentrated among few lawmakers or more evenly shared across a chamber’s members—and examine how this variation influences legislators’ behavior. We identify three key findings. First, the distribution of policy success varies widely across chambers and is most concentrated on consequential legislation. Second, smaller chambers and chambers that limit bill introductions are associated with more dispersed lawmaking success. Third, new legislators adapt their collaboration strategies in response to the concentration of effectiveness. These findings highlight the interplay between individual lawmaking effectiveness and the institutional environments in which they operate.  </i>
+<i>Research on legislative effectiveness has largely emphasized individual-level traits associated
+with policymaking success. We shift attention to how lawmaking success is distributed within and across
+legislatures by introducing a new measure—the Effective Legislator Ratio (ELR)—which captures the
+share of legislators in a chamber who consistently account for policy successes. We argue that two
+features of legislatures’ institutional design—the centralization of policymaking opportunity and the
+centralization of agenda power—shape whether effectiveness is concentrated among a small set of
+lawmakers or more broadly shared, and that this concentration, in turn, alters legislators’ behavior. We
+test our argument in U.S. state legislatures and report three primary findings. First, the distribution of
+policy success varies widely across state legislative chambers and is most concentrated for
+consequential legislation. Second, variation in policymaking opportunity (e.g., chamber size and bill
+introduction limits) is more strongly associated with the distribution of policy success than variation in
+agenda power (e.g., agenda control and leadership powers). Third, new legislators adapt their
+cosponsorship strategies in response to the concentration of effectiveness in their chamber. The ELR is a
+flexible measure that can be applied to most legislatures, enabling comparative analyses of the
+concentration of lawmaking success and its consequences. </i>
 </details>
 
 
