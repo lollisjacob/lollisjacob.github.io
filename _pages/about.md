@@ -118,22 +118,17 @@ Status: Under Review  <br>
 rights, and reshape public opinion. Yet whether—and how—such rulings shift congressional
 attention on specific issues remains unclear. We examine this question in the case of Dobbs
 v. Jackson Women’s Health Organization (2022), which eliminated the federal constitutional
-right to abortion. We argue that, after Dobbs, legislators increased attention to abortion se-
-lectively, only when two incentives aligned: gender-based representational considerations and
+right to abortion. We argue that, after Dobbs, legislators increased attention to abortion selectively, only when two incentives aligned: gender-based representational considerations and
 party-based electoral incentives. These incentives converged for female Democrats. Female
 Republicans, however, faced electoral risks in foregrounding abortion, and male legislators
 faced weaker gender-linked representational incentives. Using nearly 1.6 million statements
-from U.S. House committee hearings, we treat the draft opinion leak (May 2, 2022) as a treat-
-ment in difference-in-differences models comparing pre- and post-leak attention by party and
+from U.S. House committee hearings, we treat the draft opinion leak (May 2, 2022) as a treatment in difference-in-differences models comparing pre- and post-leak attention by party and
 gender. Pre-treatment trends show no systematic differences. After the leak, female Democrats
-increased abortion-related references by two percentage points relative to female Republi-
-cans, with no change among male legislators. Elevated attention to abortion among female
+increased abortion-related references by two percentage points relative to female Republicans, with no change among male legislators. Elevated attention to abortion among female
 Democrats persisted through the 119th Congress (2025). We also show that, across six non-
 abortion policy areas, the same gender- and electoral-based patterns do not emerge, providing
-additional evidence that Dobbs is the primary driver of the observed increase in abortion at-
-tention. Our results are robust to an alternative measure of issue attention: cosponsorship of
-abortion-related bills. These findings indicate that legislators’ responses to Dobbs were selec-
-tive and shaped by gender- and electoral-based incentives..</i>
+additional evidence that Dobbs is the primary driver of the observed increase in abortion attention. Our results are robust to an alternative measure of issue attention: cosponsorship of
+abortion-related bills. These findings indicate that legislators’ responses to Dobbs were selective and shaped by gender- and electoral-based incentives..</i>
 </details>
    
 &nbsp;  
