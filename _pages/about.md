@@ -128,7 +128,7 @@ increased abortion-related references by two percentage points relative to femal
 Democrats persisted through the 119th Congress (2025). We also show that, across six non-
 abortion policy areas, the same gender- and electoral-based patterns do not emerge, providing
 additional evidence that Dobbs is the primary driver of the observed increase in abortion attention. Our results are robust to an alternative measure of issue attention: cosponsorship of
-abortion-related bills. These findings indicate that legislators’ responses to Dobbs were selective and shaped by gender- and electoral-based incentives..</i>
+abortion-related bills. These findings indicate that legislators’ responses to Dobbs were selective and shaped by gender- and electoral-based incentives.</i>
 </details>
    
 &nbsp;  
