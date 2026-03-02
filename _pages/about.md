@@ -103,16 +103,37 @@ C. Danielle Vinson and Jacob M. Lollis <br>
        
 # Working Papers
 
-**Congressional attention to abortion after *Dobbs***  <br>
+**Congressional Attention to Abortion after *Dobbs*: How
+Representational and Electoral Incentives Selectively
+Shape Issue Attention**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
 Status: Under Review  <br>
-[Paper](/files/Lollis_Dobson_2025.pdf){: .btn--research}
+[Paper](/files/Lollis-abortion.pdf){: .btn--research}
 
 
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>The Supreme Court’s 2022 decision in Dobbs eliminated the federal constitutional right to abortion. Existing work examines how the decision affected voters’ attitudes and candidates’ campaign strategies, but legislators’ reactions remain understudied. We argue that legislators increased their attention to abortion after Dobbs only when gendered representational incentives and party-based electoral incentives aligned. For female Democrats, these incentives reinforce one another, jointly encouraging greater attention to abortion. Female Republicans, however, face gendered representational considerations that encourage attention to abortion, while party-based incentives make such attention electorally costly. Among male legislators, partisan incentives alone are insufficient: although male Democrats have a party-based incentive to increase attention, they lack a gendered incentive. We test this argument by identifying abortion references in nearly 1.6 million statements from U.S. House committee hearings. Difference-in-differences (DiD) estimates show no pre-Dobbs gender or party differences; after the decision, however, female Democrats durably increased their attention to abortion relative to female Republicans, with no change among male legislators.</i>
+<i>Landmark Supreme Court rulings can significantly alter policy, expand or restrict
+rights, and reshape public opinion. Yet whether—and how—such rulings shift congressional
+attention on specific issues remains unclear. We examine this question in the case of Dobbs
+v. Jackson Women’s Health Organization (2022), which eliminated the federal constitutional
+right to abortion. We argue that, after Dobbs, legislators increased attention to abortion se-
+lectively, only when two incentives aligned: gender-based representational considerations and
+party-based electoral incentives. These incentives converged for female Democrats. Female
+Republicans, however, faced electoral risks in foregrounding abortion, and male legislators
+faced weaker gender-linked representational incentives. Using nearly 1.6 million statements
+from U.S. House committee hearings, we treat the draft opinion leak (May 2, 2022) as a treat-
+ment in difference-in-differences models comparing pre- and post-leak attention by party and
+gender. Pre-treatment trends show no systematic differences. After the leak, female Democrats
+increased abortion-related references by two percentage points relative to female Republi-
+cans, with no change among male legislators. Elevated attention to abortion among female
+Democrats persisted through the 119th Congress (2025). We also show that, across six non-
+abortion policy areas, the same gender- and electoral-based patterns do not emerge, providing
+additional evidence that Dobbs is the primary driver of the observed increase in abortion at-
+tention. Our results are robust to an alternative measure of issue attention: cosponsorship of
+abortion-related bills. These findings indicate that legislators’ responses to Dobbs were selec-
+tive and shaped by gender- and electoral-based incentives..</i>
 </details>
    
 &nbsp;  
