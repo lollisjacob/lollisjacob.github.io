@@ -115,20 +115,16 @@ Last Update: April 2026 <br>
 <details>
   <summary><b>Abstract</b></summary>
 <i>Although increased racial diversity in American legislatures has expanded attention to race,
-particularly among nonwhite lawmakers, we know much less about how committee racial di-
-versity shapes interactions between nonwhite and white legislators. I argue that repeated con-
-tact with nonwhite lawmakers in racially diverse committees may shape how white Democrats
+particularly among nonwhite lawmakers, we know much less about how committee racial diversity shapes interactions between nonwhite and white legislators. I argue that repeated contact with nonwhite lawmakers in racially diverse committees may shape how white Democrats
 engage race-related issues, making them more likely to support race-related hearing statements
 with evidence. To test this expectation, I combine large-scale text classification with a detailed
 content analysis of more than 11,000 race-based committee hearing statements and 87,000 full
 bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white
 Democrats serving on racially diverse committees are more likely to reference evidence when
 discussing race and to cite the same sources as their nonwhite colleagues. I then show that this
-relationship is consistent with white Democrats learning from nonwhite lawmakers’ use of ev-
-idence, though I am unable to fully rule out all alternative explanations. Finally, I demonstrate
+relationship is consistent with white Democrats learning from nonwhite lawmakers’ use of evidence, though I am unable to fully rule out all alternative explanations. Finally, I demonstrate
 that race-based expertise is associated with substantive representation, as legislators who more
-frequently cite evidence when discussing race are more effective at advancing race-related leg-
-islation. Together, these findings suggest that descriptive representation may foster substantive
+frequently cite evidence when discussing race are more effective at advancing race-related legislation. Together, these findings suggest that descriptive representation may foster substantive
 representation, in part, by shaping how white Democrats engage race-related issues in racially
 diverse legislative committees.</i>
 </details>
