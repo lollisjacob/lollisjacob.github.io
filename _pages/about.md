@@ -165,7 +165,7 @@ erations and party-based electoral incentives converged. These incentives aligne
 Evidence from U.S. State Legislatures**  <br>
 Jacob M. Lollis and Todd Makse  <br>
 Status: Under Reveiw  <br>
-Last Updated: April 2026
+Last Updated: April 2026  <br>
 [Paper](/files/Lollis-ELR.pdf){: .btn--research}
 
 <details>
