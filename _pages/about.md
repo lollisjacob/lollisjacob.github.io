@@ -107,28 +107,59 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 **Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
 Jacob M. Lollis  <br>
 Status: Revise and Resubmit <br>
+Last Update: April 2026 <br>
 [Paper](/files/Lollis-learning.pdf){: .btn--research}
 
 
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Although increased racial diversity has expanded congressional attention to race, we know little about how committee diversity shapes interactions between nonwhite and white legislators—or whether those interactions alter behavior. I argue that in racially diverse committees, white Democrats learn from nonwhite colleagues, leading them to make more evidence-based claims when discussing race. To test this expectation, I combine large-scale text classification with a detailed content analysis of more than 11,000 race-based committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator identification strategy, I find that white Democrats are more likely to reference evidence when discussing race in diverse committees and to cite the same sources as their nonwhite colleagues. I also demonstrate that race-based expertise facilitates substantive representation, as legislators with such expertise are more effective at advancing race legislation. These findings demonstrate that descriptive representation fosters substantive representation in part through identity-based learning in legislative committees.</i>
+<i>Although increased racial diversity in American legislatures has expanded attention to race,
+particularly among nonwhite lawmakers, we know much less about how committee racial di-
+versity shapes interactions between nonwhite and white legislators. I argue that repeated con-
+tact with nonwhite lawmakers in racially diverse committees may shape how white Democrats
+engage race-related issues, making them more likely to support race-related hearing statements
+with evidence. To test this expectation, I combine large-scale text classification with a detailed
+content analysis of more than 11,000 race-based committee hearing statements and 87,000 full
+bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white
+Democrats serving on racially diverse committees are more likely to reference evidence when
+discussing race and to cite the same sources as their nonwhite colleagues. I then show that this
+relationship is consistent with white Democrats learning from nonwhite lawmakers’ use of ev-
+idence, though I am unable to fully rule out all alternative explanations. Finally, I demonstrate
+that race-based expertise is associated with substantive representation, as legislators who more
+frequently cite evidence when discussing race are more effective at advancing race-related leg-
+islation. Together, these findings suggest that descriptive representation may foster substantive
+representation, in part, by shaping how white Democrats engage race-related issues in racially
+diverse legislative committees.</i>
 </details>
 
 &nbsp;  
 
 ---
-**Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy** <br>
+**Why Citizens Dislike Professional Legislatures: Perceptions of White-Collar Government** <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
 Status: Revise and Resubmit <br>
+Last Update: February 2026 <br>
+
 [Paper](/files/Lollis-cashing.pdf){: .btn--research}
 
 
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>The steady professionalization of American state legislatures has created a key tension in political representation: citizens disapprove of professionalized legislatures, on average, yet those legislatures are best equipped to represent their policy preferences. We explain this paradox by arguing that citizens’ disapproval stems from distrust of white-collar legislators—who are overrepresented in professionalized chambers—and their policy priorities, rather than from opposition to institutional reforms that enhance legislative capacity. Using data from a pre- registered conjoint experiment and temporal observational analyses, we find that citizens do not oppose the institutional expansion of legislative capacity. Rather, they react negatively to representation from white-collar lawmakers, whom they associate with professionalized legis- latures. Further, we demonstrate that this opposition is justified; income inequality and poverty have increased with professionalism over time. These findings challenge existing accounts by suggesting that disapproval of professionalism is a rejection of governing by economic elites—not of reforms intended to support legislative capacity.  </i>
+<i>The professionalization of American state legislatures is among the most consequential in-
+stitutional reforms in legislative politics. Yet a core tension persists: citizens disapprove
+of professionalized legislatures even though these chambers possess capacity-enhancing re-
+sources—such as staff support, higher salaries, and longer sessions—that may improve rep-
+resentation. We offer one explanation for this disapproval: citizens perceive professional leg-
+islatures as dominated by white-collar legislators. We argue that opposition to professional
+legislatures stems, in part, from skepticism toward white-collar government. Evidence from
+a preregistered conjoint experiment and observational analyses using the Cooperative Elec-
+tion Study (CES) supports this claim. Respondents associate legislative professionalism with
+a legislature primarily composed of white-collar lawmakers, whom they do not believe will
+govern in ways that benefit people like them or society more broadly. These findings suggest
+that public opposition to legislative professionalism likely reflects a rejection of white-collar
+government rather than the institutional features of professionalization.  </i>
 </details>
 
 ---
@@ -138,56 +169,54 @@ Representational and Electoral Incentives Selectively
 Shape Issue Attention**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
 Status: Under Review  <br>
+Last Update: April 2026
 [Paper](/files/Lollis-abortion.pdf){: .btn--research}
 
 
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Landmark Supreme Court rulings can significantly alter policy, expand or restrict
-rights, and reshape public opinion. Yet whether—and how—such rulings shift congressional
-attention on specific issues remains unclear. We examine this question in the case of Dobbs
-v. Jackson Women’s Health Organization (2022), which eliminated the federal constitutional
-right to abortion. We argue that, after Dobbs, legislators increased attention to abortion selectively, only when two incentives aligned: gender-based representational considerations and
-party-based electoral incentives. These incentives converged for female Democrats. Female
-Republicans, however, faced electoral risks in foregrounding abortion, and male legislators
-faced weaker gender-linked representational incentives. Using nearly 1.6 million statements
-from U.S. House committee hearings, we treat the draft opinion leak (May 2, 2022) as a treatment in difference-in-differences models comparing pre- and post-leak attention by party and
-gender. Pre-treatment trends show no systematic differences. After the leak, female Democrats
-increased abortion-related references by two percentage points relative to female Republicans, with no change among male legislators. Elevated attention to abortion among female
-Democrats persisted through the 119th Congress (2025). We also show that, across six non-
-abortion policy areas, the same gender- and electoral-based patterns do not emerge, providing
-additional evidence that Dobbs is the primary driver of the observed increase in abortion attention. Our results are robust to an alternative measure of issue attention: cosponsorship of
-abortion-related bills. These findings indicate that legislators’ responses to Dobbs were selective and shaped by gender- and electoral-based incentives.</i>
+<i>Landmark Supreme Court rulings can reshape policy, rights, and public opinion,
+but their effects on congressional issue attention remain less clear. We argue that such rul-
+ings do not uniformly reshape congressional attention; instead, they do so selectively, de-
+pending on how legislators’ representational and electoral incentives align. We test this argu-
+ment in the case of Dobbs v. Jackson Women’s Health Organization (2022). We argue that,
+after Dobbs, abortion attention increased only when gender-linked representational consid-
+erations and party-based electoral incentives converged. These incentives aligned for female
+Democrats, but female Republicans faced electoral risks in foregrounding abortion, while male
+legislators faced weaker gender-linked representational incentives. Using nearly 1.6M state-
+ments from U.S. House committee hearings, we leverage the leak of the draft opinion in a
+difference-in-differences design that estimates differential changes in abortion attention across
+party and gender. Pre-treatment trends show no systematic differences. After the leak, fe-
+male Democrats increased abortion-related references relative to female Republicans, with no
+change among male legislators.</i>
 </details>
    
 &nbsp;  
 
 
 ---
-**Measuring the Concentration of Legislative
-Effectiveness: Evidence from U.S. State Legislatures**  <br>
+**The Concentration of Legislative Effectiveness:
+Evidence from U.S. State Legislatures**  <br>
 Jacob M. Lollis and Todd Makse  <br>
 Status: Under Reveiw  <br>
+Last Updated: April 2026
 [Paper](/files/Lollis-ELR.pdf){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Research on legislative effectiveness has largely emphasized individual-level traits associated
-with policymaking success. We shift attention to how lawmaking success is distributed within and across
-legislatures by introducing a new measure—the Effective Legislator Ratio (ELR)—which captures the
-share of legislators in a chamber who consistently account for policy successes. We argue that two
-features of legislatures’ institutional design—the centralization of policymaking opportunity and the
-centralization of agenda power—shape whether effectiveness is concentrated among a small set of
-lawmakers or more broadly shared, and that this concentration, in turn, alters legislators’ behavior. We
-test our argument in U.S. state legislatures and report three primary findings. First, the distribution of
-policy success varies widely across state legislative chambers and is most concentrated for
-consequential legislation. Second, variation in policymaking opportunity (e.g., chamber size and bill
-introduction limits) is more strongly associated with the distribution of policy success than variation in
-agenda power (e.g., agenda control and leadership powers). Third, new legislators adapt their
-cosponsorship strategies in response to the concentration of effectiveness in their chamber. The ELR is a
-flexible measure that can be applied to most legislatures, enabling comparative analyses of the
-concentration of lawmaking success and its consequences. </i>
+<i>Research on legislative effectiveness has largely examined why some legislators are
+more successful than others. Yet legislatures also vary in how broadly policymaking success is
+shared across members. In this paper, we examine how institutional design shapes the
+distribution of policymaking power within legislatures. To do so, we develop the Effective
+Legislator Ratio (ELR), a chamber-level measure capturing the share of legislators who account
+for policy success. Using data from 94 U.S. state legislative chambers from 1997 to 2018, we
+show that policy success varies widely across chambers and is most concentrated for
+consequential legislation. Policymaking opportunity (i.e., chamber size and bill introduction
+limits) is more strongly associated with this distribution than agenda power (i.e., agenda control
+and leadership powers). Finally, when effectiveness is concentrated, new legislators adapt their
+cosponsorship strategies by learning which collaborators are most likely to advance legislation
+successfully.</i>
 </details>
 
 ---
