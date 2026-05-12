@@ -122,7 +122,7 @@ engage race-related issues, making them more likely to support race-related hear
 &nbsp;  
 
 ---
-**Why Citizens Dislike Professional Legislatures: Perceptions of White-Collar Government** <br>
+**Legislative Professionalism and Perceptions of White-Collar Government** <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
 Status: Revise and Resubmit <br>
 Last Update: February 2026 <br>
@@ -133,9 +133,8 @@ Last Update: February 2026 <br>
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>The professionalization of American state legislatures is among the most consequential institutional reforms in legislative politics. Yet a core tension persists: citizens disapprove of professionalized legislatures even though these chambers possess capacity-enhancing re-
-sources—such as staff support, higher salaries, and longer sessions—that may improve representation. We offer one explanation for this disapproval: citizens perceive professional legislatures as dominated by white-collar legislators. We argue that opposition to professional
-legislatures stems, in part, from skepticism toward white-collar government. Evidence from a preregistered conjoint experiment and observational analyses using the Cooperative Election Study (CES) supports this claim. Respondents associate legislative professionalism with a legislature primarily composed of white-collar lawmakers, whom they do not believe will govern in ways that benefit people like them or society more broadly. These findings suggest that public opposition to legislative professionalism likely reflects a rejection of white-collar government rather than the institutional features of professionalization.  </i>
+<i>The professionalization of American state legislatures is among the most consequential modern institutional reforms in legislative politics. Yet a core tension persists: citizens disapprove of professionalized legislatures even though these chambers possess capacity-enhancing resources—such as staff support, higher salaries, and longer sessions—that may improve representation and policymaking. We offer one explanation for this disapproval: citizens perceive professional legislatures as dominated by legislators from white-collar backgrounds. Consequently, we argue that opposition to professionalism stems, in part, from a belief that white-collar legislators may not represent society’s interests broadly. Evidence from a preregistered conjoint experiment and observational analyses using the Cooperative Election Study (CES) supports this claim. Respondents associate professionalism with a legislature primarily composed of white-collar lawmakers, whom they do not believe govern to benefit the general public. These findings suggest that opposition to legislative professionalism likely reflects a rejection of white-collar government rather than repudiation of the institutional gains from
+professionalization. </i>
 </details>
 
 &nbsp;  
