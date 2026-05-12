@@ -138,6 +138,8 @@ sources—such as staff support, higher salaries, and longer sessions—that may
 legislatures stems, in part, from skepticism toward white-collar government. Evidence from a preregistered conjoint experiment and observational analyses using the Cooperative Election Study (CES) supports this claim. Respondents associate legislative professionalism with a legislature primarily composed of white-collar lawmakers, whom they do not believe will govern in ways that benefit people like them or society more broadly. These findings suggest that public opposition to legislative professionalism likely reflects a rejection of white-collar government rather than the institutional features of professionalization.  </i>
 </details>
 
+&nbsp;  
+
 ---
 
 **Congressional Attention to Abortion after *Dobbs*: How
@@ -174,6 +176,8 @@ Last Updated: April 2026  <br>
 distribution of policymaking power within legislatures. To do so, we develop the Effective Legislator Ratio (ELR), a chamber-level measure capturing the share of legislators who account for policy success. Using data from 94 U.S. state legislative chambers from 1997 to 2018, we
 show that policy success varies widely across chambers and is most concentrated for consequential legislation. Policymaking opportunity (i.e., chamber size and bill introduction limits) is more strongly associated with this distribution than agenda power (i.e., agenda control and leadership powers). Finally, when effectiveness is concentrated, new legislators adapt their cosponsorship strategies by learning which collaborators are most likely to advance legislation successfully.</i>
 </details>
+
+&nbsp;  
 
 ---
 **Bipartisanship scores by member and issue area in the U.S. Congress, 1983--2024**  <br>
