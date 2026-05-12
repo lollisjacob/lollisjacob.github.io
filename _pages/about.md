@@ -103,6 +103,36 @@ C. Danielle Vinson and Jacob M. Lollis <br>
        
 # Working Papers
 
+
+**Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
+Jacob M. Lollis  <br>
+Status: Revise and Resubmit <br>
+[Paper](/files/Lollis-learning.pdf){: .btn--research}
+
+
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Although increased racial diversity has expanded congressional attention to race, we know little about how committee diversity shapes interactions between nonwhite and white legislators—or whether those interactions alter behavior. I argue that in racially diverse committees, white Democrats learn from nonwhite colleagues, leading them to make more evidence-based claims when discussing race. To test this expectation, I combine large-scale text classification with a detailed content analysis of more than 11,000 race-based committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator identification strategy, I find that white Democrats are more likely to reference evidence when discussing race in diverse committees and to cite the same sources as their nonwhite colleagues. I also demonstrate that race-based expertise facilitates substantive representation, as legislators with such expertise are more effective at advancing race legislation. These findings demonstrate that descriptive representation fosters substantive representation in part through identity-based learning in legislative committees.</i>
+</details>
+
+&nbsp;  
+
+---
+**Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy** <br>
+Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
+Status: Revise and Resubmit <br>
+[Paper](/files/Lollis-cashing.pdf){: .btn--research}
+
+
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>The steady professionalization of American state legislatures has created a key tension in political representation: citizens disapprove of professionalized legislatures, on average, yet those legislatures are best equipped to represent their policy preferences. We explain this paradox by arguing that citizens’ disapproval stems from distrust of white-collar legislators—who are overrepresented in professionalized chambers—and their policy priorities, rather than from opposition to institutional reforms that enhance legislative capacity. Using data from a pre- registered conjoint experiment and temporal observational analyses, we find that citizens do not oppose the institutional expansion of legislative capacity. Rather, they react negatively to representation from white-collar lawmakers, whom they associate with professionalized legis- latures. Further, we demonstrate that this opposition is justified; income inequality and poverty have increased with professionalism over time. These findings challenge existing accounts by suggesting that disapproval of professionalism is a rejection of governing by economic elites—not of reforms intended to support legislative capacity.  </i>
+</details>
+
+---
+
 **Congressional Attention to Abortion after *Dobbs*: How
 Representational and Electoral Incentives Selectively
 Shape Issue Attention**  <br>
@@ -133,21 +163,6 @@ abortion-related bills. These findings indicate that legislators’ responses to
    
 &nbsp;  
 
----
-**Learning in Committee: How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
-Jacob M. Lollis  <br>
-Status: Under Review  <br>
-[Paper](/files/Lollis-learning.pdf){: .btn--research}
-
-
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>Although increased racial diversity has expanded congressional attention to race, we know little about how committee diversity shapes interactions between nonwhite and white legislators—or whether those interactions alter behavior. I argue that in racially diverse committees, white Democrats learn from nonwhite colleagues, leading them to make more evidence-based claims when discussing race. To test this expectation, I combine large-scale text classification with a detailed content analysis of more than 11,000 race-based committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator identification strategy, I find that white Democrats are more likely to reference evidence when discussing race in diverse committees and to cite the same sources as their nonwhite colleagues. I also demonstrate that race-based expertise facilitates substantive representation, as legislators with such expertise are more effective at advancing race legislation. These findings demonstrate that descriptive representation fosters substantive representation in part through identity-based learning in legislative committees.</i>
-</details>
-
-&nbsp;  
-
 
 ---
 **Measuring the Concentration of Legislative
@@ -175,22 +190,22 @@ flexible measure that can be applied to most legislatures, enabling comparative 
 concentration of lawmaking success and its consequences. </i>
 </details>
 
+---
+** Bipartisanship scores by member and issue area in the U.S. Congress, 1983--2024**  <br>
+Mackenzie R. Dobson and Jacob M. Lollis <br>
+Status: Pre-Review <br>
+[Paper](/files/Lollis-SD.pdf){: .btn--research}
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Although bipartisanship is central to legislative behavior and often necessary for policymaking success, no centralized, publicly accessible dataset tracks legislators' propensity to offer and attract cross-party support across time and policy issue areas. As a result, scholars are limited in answering key questions about whether bipartisanship is declining over time, who engages in it, which policy areas facilitate cross-party collaboration, and how such behavior shapes governing, representation, and democratic accountability. We introduce a dataset of congressional bipartisanship scores for all members of the U.S. House and Senate from 1983 to 2024. Built from more than 2.4 million cosponsorship decisions on 147,669 bills, the dataset provides two complementary member-term measures: attracting original out-party cosponsors to one's own bills and offering original cosponsorship to out-party-sponsored bills. The dataset includes aggregate and issue-specific scores across 34 policy issue areas for 2,056 unique legislators and 11,549 legislator-term observations. To facilitate broad reuse among academics, researchers, journalists, legislators, and the public, we make the dataset available through Harvard Dataverse and a corresponding R package, \texttt{biparty}. </i>
+</details>
+
 
 &nbsp;  
 
 
----
-**Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy** <br>
-Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
-Status: Under Review <br>
-[Paper](/files/Lollis-cashing.pdf){: .btn--research}
 
-
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>The steady professionalization of American state legislatures has created a key tension in political representation: citizens disapprove of professionalized legislatures, on average, yet those legislatures are best equipped to represent their policy preferences. We explain this paradox by arguing that citizens’ disapproval stems from distrust of white-collar legislators—who are overrepresented in professionalized chambers—and their policy priorities, rather than from opposition to institutional reforms that enhance legislative capacity. Using data from a pre- registered conjoint experiment and temporal observational analyses, we find that citizens do not oppose the institutional expansion of legislative capacity. Rather, they react negatively to representation from white-collar lawmakers, whom they associate with professionalized legis- latures. Further, we demonstrate that this opposition is justified; income inequality and poverty have increased with professionalism over time. These findings challenge existing accounts by suggesting that disapproval of professionalism is a rejection of governing by economic elites—not of reforms intended to support legislative capacity.  </i>
-</details>
 
 
 &nbsp;  
