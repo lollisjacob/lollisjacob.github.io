@@ -145,7 +145,7 @@ Representational and Electoral Incentives Selectively
 Shape Issue Attention**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
 Status: Under Review  <br>
-Last Update: April 2026
+Last Update: April 2026  <br>
 [Paper](/files/Lollis-abortion.pdf){: .btn--research}
 
 
