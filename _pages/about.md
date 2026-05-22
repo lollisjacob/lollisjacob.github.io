@@ -103,6 +103,24 @@ C. Danielle Vinson and Jacob M. Lollis <br>
        
 # Working Papers
 
+**Legislative Professionalism and Perceptions of White-Collar Government** <br>
+Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
+Status: Conditionally Accepted at the *Journal of Political Institutions and Political Economy* <br>
+Last Update: February 2026 <br>
+
+[Paper](/files/Lollis-cashing.pdf){: .btn--research}
+
+
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>The professionalization of American state legislatures is among the most consequential modern institutional reforms in legislative politics. Yet a core tension persists: citizens disapprove of professionalized legislatures even though these chambers possess capacity-enhancing resources—such as staff support, higher salaries, and longer sessions—that may improve representation and policymaking. We offer one explanation for this disapproval: citizens perceive professional legislatures as dominated by legislators from white-collar backgrounds. Consequently, we argue that opposition to professionalism stems, in part, from a belief that white-collar legislators may not represent society’s interests broadly. Evidence from a preregistered conjoint experiment and observational analyses using the Cooperative Election Study (CES) supports this claim. Respondents associate professionalism with a legislature primarily composed of white-collar lawmakers, whom they do not believe govern to benefit the general public. These findings suggest that opposition to legislative professionalism likely reflects a rejection of white-collar government rather than repudiation of the institutional gains from
+professionalization. </i>
+</details>
+
+&nbsp;  
+---
+
 
 **Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
 Jacob M. Lollis  <br>
@@ -117,24 +135,6 @@ Last Update: April 2026 <br>
 <i>Although increased racial diversity in American legislatures has expanded attention to race,
 particularly among nonwhite lawmakers, we know much less about how committee racial diversity shapes interactions between nonwhite and white legislators. I argue that repeated contact with nonwhite lawmakers in racially diverse committees may shape how white Democrats
 engage race-related issues, making them more likely to support race-related hearing statements with evidence. To test this expectation, I combine large-scale text classification with a detailed content analysis of more than 11,000 race-based committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white Democrats serving on racially diverse committees are more likely to reference evidence when discussing race and to cite the same sources as their nonwhite colleagues. I then show that this relationship is consistent with white Democrats learning from nonwhite lawmakers’ use of evidence, though I am unable to fully rule out all alternative explanations. Finally, I demonstrate that race-based expertise is associated with substantive representation, as legislators who more frequently cite evidence when discussing race are more effective at advancing race-related legislation. Together, these findings suggest that descriptive representation may foster substantive representation, in part, by shaping how white Democrats engage race-related issues in racially diverse legislative committees.</i>
-</details>
-
-&nbsp;  
-
----
-**Legislative Professionalism and Perceptions of White-Collar Government** <br>
-Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
-Status: Revise and Resubmit <br>
-Last Update: February 2026 <br>
-
-[Paper](/files/Lollis-cashing.pdf){: .btn--research}
-
-
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>The professionalization of American state legislatures is among the most consequential modern institutional reforms in legislative politics. Yet a core tension persists: citizens disapprove of professionalized legislatures even though these chambers possess capacity-enhancing resources—such as staff support, higher salaries, and longer sessions—that may improve representation and policymaking. We offer one explanation for this disapproval: citizens perceive professional legislatures as dominated by legislators from white-collar backgrounds. Consequently, we argue that opposition to professionalism stems, in part, from a belief that white-collar legislators may not represent society’s interests broadly. Evidence from a preregistered conjoint experiment and observational analyses using the Cooperative Election Study (CES) supports this claim. Respondents associate professionalism with a legislature primarily composed of white-collar lawmakers, whom they do not believe govern to benefit the general public. These findings suggest that opposition to legislative professionalism likely reflects a rejection of white-collar government rather than repudiation of the institutional gains from
-professionalization. </i>
 </details>
 
 &nbsp;  
