@@ -105,8 +105,8 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 
 **Legislative Professionalism and Perceptions of White-Collar Government** <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
-Status: Conditionally Accepted at the *Journal of Political Institutions and Political Economy* <br>
-Last Update: February 2026 <br>
+**Status:** Conditionally Accepted at the *Journal of Political Institutions and Political Economy* <br>
+**Last Update:** February 2026 <br>
 
 [Paper](/files/Lollis-cashing.pdf){: .btn--research}
 
@@ -119,6 +119,7 @@ professionalization. </i>
 </details>
 
 &nbsp;  
+
 ---
 
 
