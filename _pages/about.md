@@ -101,6 +101,28 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 ---
 
        
+<a id="data-programming-and-software"></a>
+# Data, Programming, and Software
+
+<div markdown="1" style="border: 1px solid #e5e5e5; border-radius: 8px; padding: 1.25rem 1.35rem; margin: 1rem 0 2rem 0;">
+
+## biparty
+
+**Dobson & Lollis (2026)** · R package v0.1.0 · MIT license
+
+`biparty` is an R package providing Congressional Bipartisanship Scores (CBS) for every member of the U.S. House and Senate across the 98th through 118th Congresses (1983–2024). The package includes two datasets — `aggregate.cbs` and `issue.area.cbs` — and a suite of functions for member lookup, ranking, trend analysis, issue-area filtering, and visualization. Scores capture two complementary dimensions of cross-party behavior: *attract* (the share of out-party original cosponsors drawn to a member's own bills) and *offer* (the share of a member's cosponsorships directed toward out-party-sponsored bills). Both measures are available overall and within 34 Congressional Research Service policy areas, in weighted and unweighted variants. Built from 2.4 million cosponsorship decisions on 147,669 bills, the dataset covers 2,056 unique legislators and 11,549 member-term observations.
+
+**Project scope:** 2,056 unique legislators · 11,549 member-term observations · 34 CRS policy areas · 98th–118th Congresses
+
+[Working paper](/files/Lollis-SD.pdf){: .btn--research} [R documentation](https://congressional-bipartisanship-scores.github.io){: .btn--research}
+
+</div>
+
+&nbsp;
+
+---
+
+
 # Working Papers
 
 **Legislative Professionalism and Perceptions of White-Collar Government** <br>

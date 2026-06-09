@@ -3,5 +3,7 @@ main:
     url: /files/Lollis_CV.pdf
   - title: "Publications"
     url: /#publications
+  - title: "Data, Programming, and Software"
+    url: /#data-programming-and-software
   - title: "Working Papers"
     url: /#working-papers
