@@ -1,22 +1,21 @@
-# Jacob site update: Data, Programming, and Software section
+# Website update: Data and Software section
 
-Files included:
+This package contains only the files you need to replace/add in your existing `lollisjacob.github.io` repository.
 
-- `_pages/about.md` — revised homepage with a new `Data, Programming, and Software` section added between Publications and Working Papers.
-- `_data/navigation.yml` — revised top navigation with a link to the new homepage section.
-- `files/Lollis-SD.pdf` — included because the new biparty section links to `/files/Lollis-SD.pdf`.
+## Files included
 
-What changed:
+- `_pages/about.md` — updated homepage with a new **Data and Software** section added after Working Papers.
+- `_data/navigation.yml` — updated top navigation so **Data and Software** appears after Working Papers as the last tab.
+- `images/biparty-hex.svg` — biparty logo used in the project card.
+- `files/Lollis-SD.pdf` — working-paper PDF for the biparty project.
 
-1. Added a new homepage section titled `Data, Programming, and Software`.
-2. Added a `biparty` project block using the description from the coauthored project page/homepage language.
-3. Kept the project coauthored as `Dobson & Lollis (2026)`.
-4. Included buttons for the working paper and R documentation.
-5. Did not add the interactive `Explore data` page, `biparty.html`, or the large JSON files.
-6. Added a navigation item pointing to `/#data-programming-and-software`.
+## Changes made
 
-Things to check after uploading:
+- Renamed the section from **Data, Programming, and Software** to **Data and Software**.
+- Moved the navigation tab to the end of the top menu.
+- Added a biparty card that more closely matches Mackenzie’s homepage design: logo, project title/byline, description, stats row, and text links.
+- Did not add the interactive “Explore data” page or the JSON data files.
 
-- Confirm that `/files/Lollis-SD.pdf` is the version of the Scientific Data paper you want linked.
-- Confirm that the long navigation label `Data, Programming, and Software` looks okay on desktop/mobile. If it feels too long, change the navigation title in `_data/navigation.yml` to `Data & Software`; the URL can stay the same.
-- The new section is text-only; it does not use the biparty hex logo because you said you did not want the interactive/explore-data feature, and the logo file was not needed for this update.
+## After upload
+
+Check that `images/biparty-hex.svg` appears in your repo. If the logo does not render, confirm that the file path is exactly `/images/biparty-hex.svg`.

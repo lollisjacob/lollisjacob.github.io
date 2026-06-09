@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 433 500" width="433" height="500">
+  <title>biparty hex sticker</title>
+  <desc>R package hex sticker for biparty — Congressional Bipartisanship Scores.</desc>
+
+  <defs>
+    <clipPath id="hexclip">
+      <polygon points="216.5,4 429,124.5 429,375.5 216.5,496 4,375.5 4,124.5"/>
+    </clipPath>
+  </defs>
+
+  <polygon points="216.5,4 429,124.5 429,375.5 216.5,496 4,375.5 4,124.5"
+           fill="#f5f3ee"/>
+
+  <g clip-path="url(#hexclip)">
+    <rect x="118" y="148" width="50" height="168" rx="7" fill="#185FA5"/>
+    <rect x="178" y="192" width="50" height="124" rx="7" fill="#185FA5" opacity="0.38"/>
+    <rect x="246" y="148" width="50" height="168" rx="7" fill="#A32D2D"/>
+    <rect x="306" y="192" width="50" height="124" rx="7" fill="#A32D2D" opacity="0.38"/>
+
+    <text x="216.5" y="400"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="88"
+          font-weight="400"
+          fill="#1a1a18"
+          text-anchor="middle"
+          letter-spacing="-1">biparty</text>
+  </g>
+
+  <polygon points="216.5,4 429,124.5 429,375.5 216.5,496 4,375.5 4,124.5"
+           fill="none" stroke="#1a1a18" stroke-width="8"/>
+</svg>

@@ -99,30 +99,6 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 &nbsp;  
 
 ---
-
-       
-<a id="data-programming-and-software"></a>
-# Data, Programming, and Software
-
-<div markdown="1" style="border: 1px solid #e5e5e5; border-radius: 8px; padding: 1.25rem 1.35rem; margin: 1rem 0 2rem 0;">
-
-## biparty
-
-**Dobson & Lollis (2026)** · R package v0.1.0 · MIT license
-
-`biparty` is an R package providing Congressional Bipartisanship Scores (CBS) for every member of the U.S. House and Senate across the 98th through 118th Congresses (1983–2024). The package includes two datasets — `aggregate.cbs` and `issue.area.cbs` — and a suite of functions for member lookup, ranking, trend analysis, issue-area filtering, and visualization. Scores capture two complementary dimensions of cross-party behavior: *attract* (the share of out-party original cosponsors drawn to a member's own bills) and *offer* (the share of a member's cosponsorships directed toward out-party-sponsored bills). Both measures are available overall and within 34 Congressional Research Service policy areas, in weighted and unweighted variants. Built from 2.4 million cosponsorship decisions on 147,669 bills, the dataset covers 2,056 unique legislators and 11,549 member-term observations.
-
-**Project scope:** 2,056 unique legislators · 11,549 member-term observations · 34 CRS policy areas · 98th–118th Congresses
-
-[Working paper](/files/Lollis-SD.pdf){: .btn--research} [R documentation](https://congressional-bipartisanship-scores.github.io){: .btn--research}
-
-</div>
-
-&nbsp;
-
----
-
-
 # Working Papers
 
 **Legislative Professionalism and Perceptions of White-Collar Government** <br>
@@ -221,5 +197,42 @@ Status: Pre-Review <br>
 
 
 &nbsp;  
-&nbsp;  
+&nbsp;
+
+&nbsp;
+
+---
+
+<a id="data-and-software"></a>
+# Data and Software
+
+<div style="border:1px solid #e8e8e2;border-radius:8px;padding:1.5rem 1.6rem;margin:1rem 0 2rem 0;background:#fff;">
+
+  <div style="display:flex;align-items:flex-start;gap:1.1rem;margin-bottom:1.15rem;flex-wrap:wrap;">
+    <div style="flex:0 0 auto;">
+      <img src="/images/biparty-hex.svg" alt="biparty hex sticker" width="96" style="display:block;max-width:96px;height:auto;" />
+    </div>
+    <div style="flex:1;min-width:220px;padding-top:0.25rem;">
+      <div style="font-family:Georgia,'Times New Roman',serif;font-size:1.35rem;line-height:1.15;color:#1a1a18;margin-bottom:0.2rem;">biparty</div>
+      <div style="font-size:0.82rem;color:#8a8a84;line-height:1.45;letter-spacing:0.01em;">Dobson &amp; Lollis (2026) · R package v0.1.0 · MIT license</div>
+    </div>
+  </div>
+
+  <p style="font-size:0.95rem;line-height:1.8;color:#5a5a54;margin-bottom:1.1rem;"><code style="font-size:0.88rem;background:transparent;border:none;padding:0;color:#1a1a18;">biparty</code> is an R package providing Congressional Bipartisanship Scores (CBS) for every member of the U.S. House and Senate across the 98th through 118th Congresses (1983–2024). The package includes two datasets — <code style="font-size:0.88rem;background:transparent;border:none;padding:0;color:#1a1a18;">aggregate.cbs</code> and <code style="font-size:0.88rem;background:transparent;border:none;padding:0;color:#1a1a18;">issue.area.cbs</code> — and a suite of functions for member lookup, ranking, trend analysis, issue-area filtering, and visualization. Scores capture two complementary dimensions of cross-party behavior: <em>attract</em> (the share of out-party original cosponsors drawn to a member's own bills) and <em>offer</em> (the share of a member's cosponsorships directed toward out-party-sponsored bills). Both measures are available overall and within 34 Congressional Research Service policy areas, in weighted and unweighted variants. Built from 2.4 million cosponsorship decisions on 147,669 bills, the dataset covers 2,056 unique legislators and 11,549 member-term observations.</p>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));border:1px solid #e8e8e2;border-radius:6px;overflow:hidden;margin:1rem 0 1.25rem 0;background:#f7f7f4;">
+    <div style="padding:0.75rem 0.85rem;border-right:1px solid #e8e8e2;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:1rem;color:#1a1a18;line-height:1.2;">2,056</div><div style="font-size:0.68rem;color:#9a9a92;text-transform:uppercase;letter-spacing:0.04em;margin-top:0.2rem;">unique legislators</div></div>
+    <div style="padding:0.75rem 0.85rem;border-right:1px solid #e8e8e2;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:1rem;color:#1a1a18;line-height:1.2;">11,549</div><div style="font-size:0.68rem;color:#9a9a92;text-transform:uppercase;letter-spacing:0.04em;margin-top:0.2rem;">member-term obs.</div></div>
+    <div style="padding:0.75rem 0.85rem;border-right:1px solid #e8e8e2;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:1rem;color:#1a1a18;line-height:1.2;">34</div><div style="font-size:0.68rem;color:#9a9a92;text-transform:uppercase;letter-spacing:0.04em;margin-top:0.2rem;">CRS policy areas</div></div>
+    <div style="padding:0.75rem 0.85rem;"><div style="font-family:Georgia,'Times New Roman',serif;font-size:1rem;color:#1a1a18;line-height:1.2;">98th–118th</div><div style="font-size:0.68rem;color:#9a9a92;text-transform:uppercase;letter-spacing:0.04em;margin-top:0.2rem;">Congresses</div></div>
+  </div>
+
+  <div style="display:flex;gap:1.4rem;flex-wrap:wrap;font-size:0.9rem;">
+    <a href="/files/Lollis-SD.pdf" style="color:#1a1a18;text-decoration:none;">working paper (pdf)</a>
+    <a href="https://congressional-bipartisanship-scores.github.io" target="_blank" style="color:#1a1a18;text-decoration:none;">R documentation</a>
+  </div>
+
+</div>
+
+&nbsp;
 
