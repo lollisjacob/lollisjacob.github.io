@@ -110,7 +110,7 @@ Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland 
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Conditionally Accepted at the *Journal of Political Institutions and Political Economy*<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> February 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span>
+<span style="color:#777;font-weight:600;">Conference Presentations: SPPC 2024 </span>
 </div>
 
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
@@ -131,7 +131,7 @@ Jacob M. Lollis  <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span>
+<span style="color:#777;font-weight:600;">Conference Presentations: SPSA 2026, MPSA 2026 </span>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-learning.pdf){: .btn--research}
@@ -153,7 +153,7 @@ Jacob M. Lollis and Mackenzie R. Dobson  <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span>
+<span style="color:#777;font-weight:600;">Conference Presentations: SPSA 2026, MPSA 2026 </span>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-abortion.pdf){: .btn--research}
@@ -173,7 +173,7 @@ Jacob M. Lollis and Todd Makse  <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span>
+<span style="color:#777;font-weight:600;">Conference Presentations: SPPC 2024 </span>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
@@ -192,7 +192,6 @@ Mackenzie R. Dobson and Jacob M. Lollis <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Pre-Review<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> <br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
