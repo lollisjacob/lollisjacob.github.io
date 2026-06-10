@@ -1,14 +1,11 @@
-# Website update: paper spacing and working-paper metadata
+# Website update: refined spacing and working-paper metadata
 
-This package contains an updated `_pages/about.md`.
+This package contains a revised `_pages/about.md`.
 
 Changes made:
-- Added consistent vertical spacing before every paper/link button row.
-- Indented the working-paper metadata lines using subtle `>` markers.
-- Added a blank `Conference Presentations:` line to each working paper for you to fill in.
-- Fixed `Under Reveiw` to `Under Review`.
-- Removed the scroll emoji from the CEL Working Paper Series badges while keeping the badge text.
+- Reduced the space between paper text and the paper/link buttons.
+- Replaced the `>` metadata markers with a subtler indented metadata block using a thin left rule.
+- Tightened the spacing between author lines and working-paper metadata.
+- Preserved the 📜 Center for Effective Lawmaking Working Paper Series badge.
 
-Replace your repo's `_pages/about.md` with this file.
-
-- Kept the CEL Working Paper Series badge with the 📜 emoji intact.
+Upload `_pages/about.md` to replace your existing homepage file.

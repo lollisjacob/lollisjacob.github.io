@@ -38,7 +38,7 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
 Jacob M. Lollis and Mackenzie R. Dobson.<br>
 *PS: Political Science & Politics,* 2025.<br>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [PDF](/files/Lollis-ps.pdf){: .btn--research} [DOI](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers/99F9DDDB008114F6D77FB27534575BF3){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
 <details>
   <summary><b>Abstract</b></summary>
@@ -52,7 +52,7 @@ Jacob M. Lollis and Mackenzie R. Dobson.<br>
 **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**  <br>
 Jacob M. Lollis <br>
 *Political Research Quarterly,* 2025.  <br>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [PDF](/files/Lollis-prq.pdf){: .btn--research} [DOI](https://doi.org/10.1177/10659129241289953){: .btn--research} 
 
 <details>
@@ -68,7 +68,7 @@ Jacob M. Lollis <br>
  **Are Workers Effective Lawmakers?** <br>
  Jacob M. Lollis <br>
 *State Politics & Policy Quarterly*, 2024. <br>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [PDF](/files/Lollis-Workers.pdf){: .btn--research} [DOI](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/are-workers-effective-lawmakers/7752DB8A9F3ABE15AF451CABFADC4F40){: .btn--research} [Replication](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW){: .btn--research}
 
 <details>
@@ -94,7 +94,7 @@ specifications, the gap between working-class and white-collar legislators’ ef
 **Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**  <br>
 C. Danielle Vinson and Jacob M. Lollis <br>
 *Congress & The Presidency*, 2023. <br>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [DOI](https://doi.org/10.1080/07343469.2023.2174613){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
 
 <details>
@@ -115,13 +115,13 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 
 **Legislative Professionalism and Perceptions of White-Collar Government** <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
-<div style="margin:0.35rem 0 0.75rem 1rem;color:#444;line-height:1.55;" markdown="1">
-<span style="color:#777;">&gt;</span> **Status:** Conditionally Accepted at the *Journal of Political Institutions and Political Economy*<br>
-<span style="color:#777;">&gt;</span> **Last Update:** February 2026<br>
-<span style="color:#777;">&gt;</span> **Conference Presentations:**
+<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Conditionally Accepted at the *Journal of Political Institutions and Political Economy*<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> February 2026<br>
+<span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
 
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [Paper](/files/Lollis-cashing.pdf){: .btn--research}
 
 
@@ -139,12 +139,12 @@ professionalization. </i>
 
 **Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
 Jacob M. Lollis  <br>
-<div style="margin:0.35rem 0 0.75rem 1rem;color:#444;line-height:1.55;" markdown="1">
-<span style="color:#777;">&gt;</span> **Status:** Revise and Resubmit<br>
-<span style="color:#777;">&gt;</span> **Last Update:** April 2026<br>
-<span style="color:#777;">&gt;</span> **Conference Presentations:**
+<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
+<span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [Paper](/files/Lollis-learning.pdf){: .btn--research}
 
 
@@ -164,12 +164,12 @@ engage race-related issues, making them more likely to support race-related hear
 Representational and Electoral Incentives Selectively
 Shape Issue Attention**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
-<div style="margin:0.35rem 0 0.75rem 1rem;color:#444;line-height:1.55;" markdown="1">
-<span style="color:#777;">&gt;</span> **Status:** Under Review<br>
-<span style="color:#777;">&gt;</span> **Last Update:** April 2026<br>
-<span style="color:#777;">&gt;</span> **Conference Presentations:**
+<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
+<span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [Paper](/files/Lollis-abortion.pdf){: .btn--research}
 
 
@@ -188,12 +188,12 @@ erations and party-based electoral incentives converged. These incentives aligne
 **The Concentration of Legislative Effectiveness:
 Evidence from U.S. State Legislatures**  <br>
 Jacob M. Lollis and Todd Makse  <br>
-<div style="margin:0.35rem 0 0.75rem 1rem;color:#444;line-height:1.55;" markdown="1">
-<span style="color:#777;">&gt;</span> **Status:** Under Review<br>
-<span style="color:#777;">&gt;</span> **Last Update:** April 2026<br>
-<span style="color:#777;">&gt;</span> **Conference Presentations:**
+<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
+<span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
 
 <details>
@@ -208,12 +208,12 @@ show that policy success varies widely across chambers and is most concentrated 
 ---
 **Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024**  <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
-<div style="margin:0.35rem 0 0.75rem 1rem;color:#444;line-height:1.55;" markdown="1">
-<span style="color:#777;">&gt;</span> **Status:** Pre-Review<br>
-<span style="color:#777;">&gt;</span> **Last Update:** <br>
-<span style="color:#777;">&gt;</span> **Conference Presentations:**
+<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Pre-Review<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> <br>
+<span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.55rem;"></div>
+<div style="height:0.25rem;"></div>
 [Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
 
 <details>
