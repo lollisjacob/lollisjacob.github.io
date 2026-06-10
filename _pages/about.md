@@ -27,8 +27,6 @@ I study American political institutions, with a focus on representation, legisla
 
 I received my Ph.D. in Political Science from the University of Virginia in 2025. Before UVA, I earned a B.A. in Politics and International Affairs, with a minor in Poverty Studies, from Furman University.
 
-&nbsp;
-
 ---
        
 # Publications
@@ -38,38 +36,35 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
 Jacob M. Lollis and Mackenzie R. Dobson.<br>
 *PS: Political Science & Politics,* 2025.<br>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [PDF](/files/Lollis-ps.pdf){: .btn--research} [DOI](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers/99F9DDDB008114F6D77FB27534575BF3){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
+</div>
 <details>
   <summary><b>Abstract</b></summary>
 <i>Are LGBTQ legislators effective lawmakers? We build on theories that link voter discrimination to legislative effectiveness by arguing that voters’ biases against LGBTQ candidates narrow the candidate pool, leading to the election of only the most experienced and qualified LGBTQ candidates. As a result of this electoral selection effect, we expect that LGBTQ legislators will be more effective lawmakers than their non-LGBTQ counterparts. To test this, we combine data on state legislators’ LGBTQ identification with their State Legislative Effectiveness Scores (SLES). Our findings reveal that LGBTQ legislators are meaningfully more effective than non-LGBTQ legislators. To link our findings to voter discrimination, we leverage over-time variation in discrimination toward LGBTQ individuals. Across four tests, we consistently find that LGBTQ lawmakers elected in highdiscrimination environments are more effective than those elected from less discriminatory environments.</i>
 </details>
 
-
-&nbsp;  
-
 ---
 **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**  <br>
 Jacob M. Lollis <br>
 *Political Research Quarterly,* 2025.  <br>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [PDF](/files/Lollis-prq.pdf){: .btn--research} [DOI](https://doi.org/10.1177/10659129241289953){: .btn--research} 
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
 <i>Though there is strong evidence that nonwhite lawmakers introduce more racially salient legislation than white lawmakers, it is less clear whether race is a significant predictor of other legislative behavior. Given mixed findings in existing research, lawmakers’ actions in committee offer a new test of how race shapes legislative behavior. I develop new, original measures identifying race references in more than 1.4 million congressional committee hearing statements. I find that nonwhite lawmakers discuss race more frequently than white lawmakers in hearings, though white lawmakers are more likely to mention race in racially diverse hearings due to contact effects. Using a novel measure of race-issue bills, I demonstrate that lawmakers’ race statements in hearings are linked to policy representation. These findings explain how racial diversity in legislatures affects legislative speech and policy representation.</i>
 </details>
 
-
-&nbsp;  
-
 ---
 
  **Are Workers Effective Lawmakers?** <br>
  Jacob M. Lollis <br>
 *State Politics & Policy Quarterly*, 2024. <br>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [PDF](/files/Lollis-Workers.pdf){: .btn--research} [DOI](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/are-workers-effective-lawmakers/7752DB8A9F3ABE15AF451CABFADC4F40){: .btn--research} [Replication](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW){: .btn--research}
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -87,22 +82,19 @@ underperform white-collar lawmakers. Further, I provide evidence that, across va
 specifications, the gap between working-class and white-collar legislators’ effectiveness is negligible.</i>
 </details>
 
-&nbsp;
-
 ---
 
 **Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**  <br>
 C. Danielle Vinson and Jacob M. Lollis <br>
 *Congress & The Presidency*, 2023. <br>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [DOI](https://doi.org/10.1080/07343469.2023.2174613){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
 <i>How do co-partisans respond to the President on Twitter? This article examines whether and how Republican legislators reacted to President Trump in five instances when he broke with Republican Party policy positions or norms. We theorize that legislators’ electoral environment, constituency, and identity shape their response to the president, and we test our hypotheses using nearly 2,500 hand-coded tweets from Republican legislators between 2018-2020. The overwhelming reaction by Republican legislators to Trump’s actions was to ignore him. When members did react to the president, their response was primarily driven by their electoral environment and identity. Those from the most Trump supportive districts supported the president, and retiring members were most likely to oppose him. Male legislators were much more likely to support and oppose the president, while female legislators mostly ignored him. And, if they reacted, the most ideologically extreme Republicans were more likely to support than oppose the president. The implications of these findings are troubling. Even when President Trump violated traditional norms or deviated from long held party positions, his congressional co-partisans remained silent, occasionally offering support but rarely opposition.</i>
 </details>
-
-&nbsp;  
 
 ---
 
@@ -115,16 +107,15 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 
 **Legislative Professionalism and Perceptions of White-Collar Government** <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
-<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Conditionally Accepted at the *Journal of Political Institutions and Political Economy*<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> February 2026<br>
 <span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
 
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-cashing.pdf){: .btn--research}
-
-
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -132,22 +123,19 @@ Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland 
 professionalization. </i>
 </details>
 
-&nbsp;  
-
 ---
 
 
 **Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
 Jacob M. Lollis  <br>
-<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
 <span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-learning.pdf){: .btn--research}
-
-
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -156,23 +144,20 @@ particularly among nonwhite lawmakers, we know much less about how committee rac
 engage race-related issues, making them more likely to support race-related hearing statements with evidence. To test this expectation, I combine large-scale text classification with a detailed content analysis of more than 11,000 race-based committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white Democrats serving on racially diverse committees are more likely to reference evidence when discussing race and to cite the same sources as their nonwhite colleagues. I then show that this relationship is consistent with white Democrats learning from nonwhite lawmakers’ use of evidence, though I am unable to fully rule out all alternative explanations. Finally, I demonstrate that race-based expertise is associated with substantive representation, as legislators who more frequently cite evidence when discussing race are more effective at advancing race-related legislation. Together, these findings suggest that descriptive representation may foster substantive representation, in part, by shaping how white Democrats engage race-related issues in racially diverse legislative committees.</i>
 </details>
 
-&nbsp;  
-
 ---
 
 **Congressional Attention to Abortion after *Dobbs*: How
 Representational and Electoral Incentives Selectively
 Shape Issue Attention**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
-<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
 <span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-abortion.pdf){: .btn--research}
-
-
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -180,21 +165,19 @@ Jacob M. Lollis and Mackenzie R. Dobson  <br>
 pending on how legislators’ representational and electoral incentives align. We test this argument in the case of Dobbs v. Jackson Women’s Health Organization (2022). We argue that, after Dobbs, abortion attention increased only when gender-linked representational consid-
 erations and party-based electoral incentives converged. These incentives aligned for female Democrats, but female Republicans faced electoral risks in foregrounding abortion, while male legislators faced weaker gender-linked representational incentives. Using nearly 1.6M statements from U.S. House committee hearings, we leverage the leak of the draft opinion in a difference-in-differences design that estimates differential changes in abortion attention across party and gender. Pre-treatment trends show no systematic differences. After the leak, female Democrats increased abortion-related references relative to female Republicans, with no change among male legislators.</i>
 </details>
-   
-&nbsp;  
-
 
 ---
 **The Concentration of Legislative Effectiveness:
 Evidence from U.S. State Legislatures**  <br>
 Jacob M. Lollis and Todd Makse  <br>
-<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
 <span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -203,26 +186,22 @@ distribution of policymaking power within legislatures. To do so, we develop the
 show that policy success varies widely across chambers and is most concentrated for consequential legislation. Policymaking opportunity (i.e., chamber size and bill introduction limits) is more strongly associated with this distribution than agenda power (i.e., agenda control and leadership powers). Finally, when effectiveness is concentrated, new legislators adapt their cosponsorship strategies by learning which collaborators are most likely to advance legislation successfully.</i>
 </details>
 
-&nbsp;  
-
 ---
 **Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024**  <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
-<div style="margin:0.15rem 0 0.55rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.45;font-size:0.95em;" markdown="1">
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Pre-Review<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> <br>
 <span style="color:#777;font-weight:600;">Conference Presentations:</span>
 </div>
-<div style="height:0.25rem;"></div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
+</div>
 
 <details>
   <summary><b>Abstract</b></summary>
 <i> Although bipartisanship is central to the study of legislative behavior and often necessary for policymaking success, scholars lack a centralized, publicly accessible, and consistently updated dataset measuring legislators’ propensity to offer and attract cross-party support over time and across issue areas. As a result, researchers often construct different measures of bipartisanship, making it harder for scholars to build on existing work and engage in cumulative conversations about whether bipartisanship is declining, who engages in it, and which issues facilitate cross-party collaboration. We introduce a dataset of Congressional Bipartisanship Scores (CBS) for all members of the U.S. House and Senate from 1983 to 2024. Built from more than 2.4 million cosponsorship decisions on 147,669 bills, the dataset provides two member-term measures: attracting original out-party cosponsors to one’s own bills and offering original cosponsorship to out-party-sponsored bills. The dataset includes aggregate and issue-specific scores across 34 policy areas for 2,056 legislators and 11,549 legislator-term observations. To facilitate broad reuse, we make the data publicly available through Harvard Dataverse and the R package, biparty. </i>
 </details>
-
-
-&nbsp;  
 
 ---
 

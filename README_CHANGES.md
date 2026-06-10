@@ -1,11 +1,10 @@
-# Website update: refined spacing and working-paper metadata
+# Jacob site about.md compact spacing update
 
-This package contains a revised `_pages/about.md`.
+This package includes a revised `_pages/about.md` with:
 
-Changes made:
-- Reduced the space between paper text and the paper/link buttons.
-- Replaced the `>` metadata markers with a subtler indented metadata block using a thin left rule.
-- Tightened the spacing between author lines and working-paper metadata.
-- Preserved the 📜 Center for Effective Lawmaking Working Paper Series badge.
+- More compact spacing between paper metadata/author lines and the Paper/PDF/DOI buttons.
+- More compact spacing after the button row and before the next divider.
+- The existing working-paper metadata styling preserved, but tightened slightly.
+- The CEL Working Paper Series badge preserved with the 📜 emoji.
 
-Upload `_pages/about.md` to replace your existing homepage file.
+Replace your repository's `_pages/about.md` with this file.
