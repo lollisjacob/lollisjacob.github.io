@@ -86,7 +86,7 @@ specifications, the gap between working-class and white-collar legislators’ ef
 
 ---
 
-**Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**,  <br>
+**Nothing to See Here: Republican Congressional Members’ Twitter Reactions to Donald Trump**  <br>
 C. Danielle Vinson and Jacob M. Lollis <br>
 *Congress & The Presidency*, 2023. <br>
 [DOI](https://doi.org/10.1080/07343469.2023.2174613){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFTG96T){: .btn--research}
