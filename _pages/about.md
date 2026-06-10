@@ -168,7 +168,7 @@ Evidence from U.S. State Legislatures**  <br>
 Jacob M. Lollis and Todd Makse  <br>
 Status: Under Reveiw  <br>
 Last Updated: April 2026  <br>
-[Paper](/files/Lollis-ELR.pdf){: .btn--research}
+[Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -183,7 +183,7 @@ show that policy success varies widely across chambers and is most concentrated 
 **Bipartisanship scores by member and issue area in the U.S. Congress, 1983--2024**  <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 Status: Pre-Review <br>
-[Paper](/files/Lollis-SD.pdf){: .btn--research}
+[Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -219,8 +219,8 @@ Status: Pre-Review <br>
     </div>
 
     <div style="display:flex;gap:0.35rem;flex-wrap:wrap;align-items:center;">
-      <a href="/files/Lollis-SD.pdf" target="_blank" class="btn--research">Working paper</a>
-      <a href="https://congressional-bipartisanship-scores.github.io" target="_blank" class="btn--research">R documentation</a>
+      <a href="/files/Lollis-SD.pdf" target="_blank" class="btn--research">Working Paper</a>
+      <a href="https://congressional-bipartisanship-scores.github.io" target="_blank" class="btn--research">R Documentation</a>
     </div>
   </div>
 </div>
