@@ -180,7 +180,7 @@ show that policy success varies widely across chambers and is most concentrated 
 &nbsp;  
 
 ---
-**Bipartisanship scores by member and issue area in the U.S. Congress, 1983--2024**  <br>
+**Congressional Bipartisanship Scores by Memberand Issue Area, 1983-2024**  <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 Status: Pre-Review <br>
 [Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
