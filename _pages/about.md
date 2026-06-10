@@ -33,7 +33,8 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
        
 # Publications
 
-<div class="paper-list" style="margin-left:1.25rem;" markdown="1">
+<div style="margin-left:2.5rem;" markdown="1">
+
 **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
 Jacob M. Lollis and Mackenzie R. Dobson.<br>
 *PS: Political Science & Politics,* 2025.<br>
@@ -106,7 +107,8 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 
 # Working Papers
 
-<div class="paper-list" style="margin-left:1.25rem;" markdown="1">
+<div style="margin-left:2.5rem;" markdown="1">
+
 **Legislative Professionalism and Perceptions of White-Collar Government** <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
 Status: Conditionally Accepted at the *Journal of Political Institutions and Political Economy* <br>
@@ -170,9 +172,9 @@ erations and party-based electoral incentives converged. These incentives aligne
 **The Concentration of Legislative Effectiveness:
 Evidence from U.S. State Legislatures**  <br>
 Jacob M. Lollis and Todd Makse  <br>
-Status: Under Review  <br>
+Status: Under Reveiw  <br>
 Last Updated: April 2026  <br>
-[Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">Center for Effective Lawmaking Working Paper Series</span>
+[Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -187,7 +189,7 @@ show that policy success varies widely across chambers and is most concentrated 
 **Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024**  <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 Status: Pre-Review <br>
-[Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">Center for Effective Lawmaking Working Paper Series</span>
+[Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -198,6 +200,7 @@ Status: Pre-Review <br>
 &nbsp;  
 
 ---
+
 </div>
 
 # Data and Software

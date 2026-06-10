@@ -1,12 +1,10 @@
-# Jacob website update: indented paper entries
+# Website update: more indented paper entries
 
-Replace `_pages/about.md` in your GitHub repository with the file in this zip.
+This package contains an updated `_pages/about.md`.
 
 Changes made:
-- Indented the entries under `# Publications`.
-- Indented the entries under `# Working Papers`.
-- Kept the section headers themselves flush left.
-- Removed the scroll emoji from the two Center for Effective Lawmaking badges, keeping the badge text.
-- Fixed the typo `Under Reveiw` -> `Under Review`.
+- Increased the indentation for the paper entries under **Publications** and **Working Papers**.
+- Kept the section headers flush left.
+- Left the existing paper text, links, badges, and Data and Software section unchanged.
 
-No publication markers, icons, emoji badges, or new visual labels were added.
+Replace your repo's `_pages/about.md` with this file.
