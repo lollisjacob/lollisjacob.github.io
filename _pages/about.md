@@ -180,14 +180,14 @@ show that policy success varies widely across chambers and is most concentrated 
 &nbsp;  
 
 ---
-**Congressional Bipartisanship Scores by Memberand Issue Area, 1983-2024**  <br>
+**Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024**  <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 Status: Pre-Review <br>
 [Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Although bipartisanship is central to legislative behavior and often necessary for policymaking success, no centralized, publicly accessible dataset tracks legislators' propensity to offer and attract cross-party support across time and policy issue areas. As a result, scholars are limited in answering key questions about whether bipartisanship is declining over time, who engages in it, which policy areas facilitate cross-party collaboration, and how such behavior shapes governing, representation, and democratic accountability. We introduce a dataset of congressional bipartisanship scores for all members of the U.S. House and Senate from 1983 to 2024. Built from more than 2.4 million cosponsorship decisions on 147,669 bills, the dataset provides two complementary member-term measures: attracting original out-party cosponsors to one's own bills and offering original cosponsorship to out-party-sponsored bills. The dataset includes aggregate and issue-specific scores across 34 policy issue areas for 2,056 unique legislators and 11,549 legislator-term observations. To facilitate broad reuse among academics, researchers, journalists, legislators, and the public, we make the dataset available through Harvard Dataverse and a corresponding R package, biparty. </i>
+<i> Although bipartisanship is central to the study of legislative behavior and often necessary for policymaking success, scholars lack a centralized, publicly accessible, and consistently updated dataset measuring legislators’ propensity to offer and attract cross-party support over time and across issue areas. As a result, researchers often construct different measures of bipartisanship, making it harder for scholars to build on existing work and engage in cumulative conversations about whether bipartisanship is declining, who engages in it, and which issues facilitate cross-party collaboration. We introduce a dataset of Congressional Bipartisanship Scores (CBS) for all members of the U.S. House and Senate from 1983 to 2024. Built from more than 2.4 million cosponsorship decisions on 147,669 bills, the dataset provides two member-term measures: attracting original out-party cosponsors to one’s own bills and offering original cosponsorship to out-party-sponsored bills. The dataset includes aggregate and issue-specific scores across 34 policy areas for 2,056 legislators and 11,549 legislator-term observations. To facilitate broad reuse, we make the data publicly available through Harvard Dataverse and the R package, biparty. </i>
 </details>
 
 
