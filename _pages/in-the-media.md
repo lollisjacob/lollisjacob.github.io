@@ -40,75 +40,21 @@ layout: archive
   color: #5a5a54;
   margin: 0 0 0.9rem 0;
 }
-.tweet-box {
-  border: 1px solid #e2e2dc;
-  border-radius: 8px;
-  background: #fff;
-  padding: 1rem 1.05rem;
-  margin: 0.85rem 0 1rem 0;
+.tweet-screenshot {
+  margin: 0.9rem 0 1rem 0;
 }
-.tweet-head {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.75rem;
-  margin-bottom: 0.7rem;
-}
-.tweet-avatar {
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  background: #0b5ea8;
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: Georgia, 'Times New Roman', serif;
-  font-size: 17px;
-  flex: 0 0 auto;
-}
-.tweet-account {
-  font-size: 15px;
-  line-height: 1.25;
-  color: #1a1a18;
-  font-weight: 600;
-}
-.tweet-handle {
-  font-size: 14px;
-  color: #6f7d88;
-  line-height: 1.35;
-}
-.tweet-mark {
-  margin-left: auto;
-  color: #1a1a18;
-  font-size: 20px;
-  line-height: 1;
-}
-.tweet-text {
-  font-size: 15px;
-  line-height: 1.65;
-  color: #1a1a18;
-  margin-left: 3.45rem;
-}
-.tweet-link {
-  color: #0b67b2;
-}
-.tweet-footer {
-  margin: 0.85rem 0 0 3.45rem;
-  padding-top: 0.65rem;
-  border-top: 1px solid #ecece6;
-  color: #6f7d88;
-  font-size: 13px;
-  display: flex;
-  gap: 1.2rem;
-  flex-wrap: wrap;
+.tweet-screenshot img {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid #d7d7d0;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 @media (max-width: 600px) {
   .media-card {
     padding: 1rem;
-  }
-  .tweet-text,
-  .tweet-footer {
-    margin-left: 0;
   }
 }
 </style>
@@ -125,22 +71,9 @@ layout: archive
 <div class="media-card">
   <div class="media-meta">X Mention · June 15, 2026</div>
   <p class="media-title">Congressional Bipartisanship Scores shared on X</p>
-  <div class="tweet-box">
-    <div class="tweet-head">
-      <div class="tweet-avatar">MD</div>
-      <div>
-        <div class="tweet-account">Mackenzie R. Dobson</div>
-        <div class="tweet-handle">@MackenzieDobso2 · Jun 15, 2026</div>
-      </div>
-      <div class="tweet-mark">𝕏</div>
-    </div>
-    <div class="tweet-text">
-      Mackenzie R. Dobson shared the new Congressional Bipartisanship Scores project and linked to the Center for Effective Lawmaking feature on the dataset developed with Jacob M. Lollis.
-      <br><span class="tweet-link">thelawmakers.org/legislative-research/...</span>
-    </div>
-    <div class="tweet-footer">
-      <span>↩ Reply</span><span>↻ Repost</span><span>♡ Like</span><span>↗ Share</span>
-    </div>
+  <p class="media-description">Mackenzie R. Dobson shared the new Congressional Bipartisanship Scores project on X, highlighting the dataset and linking to the Center for Effective Lawmaking feature.</p>
+  <div class="tweet-screenshot">
+    <img src="/images/in-the-media/mackenzie-cbs-tweet.png" alt="Screenshot of an X post by Mackenzie Dobson about the Congressional Bipartisanship Scores project.">
   </div>
   <a href="https://x.com/MackenzieDobso2/status/2066605686536937802?s=20" target="_blank" rel="noopener" class="btn--research">View Post</a>
 </div>
