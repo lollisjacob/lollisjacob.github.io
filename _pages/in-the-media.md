@@ -6,7 +6,7 @@ author_profile: true
 layout: archive
 ---
 
-# In the Media
+# Media & Mentions
 
 <style>
 .media-list {
@@ -80,8 +80,8 @@ layout: archive
 
 <div class="media-card">
   <div class="media-meta">University of Cincinnati Office of Research · May 26, 2026</div>
-  <p class="media-title">Internal Funding awardees: fueling research across disciplines</p>
-  <p class="media-description">The University of Cincinnati Office of Research highlighted internal funding awardees, including Jacob M. Lollis's University Research Council Faculty Scholars project, <em>Democracy Denied: Explaining the Rise of Election-Denying Candidates in U.S. Politics</em>.</p>
+  <p class="media-title">The University of Cincinnati Office of Research (URC) Announces 2026 Faculty Scholars Awardees</p>
+  <p class="media-description">Building upon the rich legacy of the University Research Council (URC), UC’s oldest and most prestigious internal funding program, the URC Faculty Scholars Research Awards recognize outstanding early-career faculty whose work demonstrates exceptional promise and vision. Jacob M. Lollis is a grantee for his project: <em>Democracy Denied: Explaining the Rise of Election-Denying Candidates in U.S. Politics</em>.</p>
   <a href="https://research.uc.edu/news/2026/05/26/internal-funding-awardees-fueling-research-across-disciplines" target="_blank" rel="noopener" class="btn--research">Read Feature</a>
 </div>
 
