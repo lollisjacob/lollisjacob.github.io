@@ -1,0 +1,32 @@
+/* === Fix author card on phones: stack & hide stray follow button === */
+@media (max-width: 700px) {
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: block !important;
+    width: 100% !important;
+    float: none !important;
+    padding: 0 !important;
+    margin: 0 auto 0.75rem !important;
+    text-align: center !important;
+  }
+
+  .author__avatar img {
+    max-width: 175px !important;
+    height: auto !important;
+  }
+
+  .author__urls {
+    position: static !important;
+    display: block !important;
+    text-align: center !important;
+  }
+
+  /* Hide stray “Follow” widgets that overflow on small screens */
+  .github-button,
+  iframe[title*="Follow"],
+  a[aria-label*="Follow"],
+  a[title*="Follow"] {
+    display: none !important;
+  }
+}
