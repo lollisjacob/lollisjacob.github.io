@@ -33,6 +33,24 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 
 <div style="margin-left:2.5rem;" markdown="1">
 
+**Legislative Professionalism and Perceptions of White-Collar Government** <br>
+Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
+*Journal of Political Institutions and Political Economy,* 2026.<br>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+</div>
+
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+[Paper](/files/Lollis-cashing.pdf){: .btn--research}
+</div>
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>The professionalization of American state legislatures is among the most consequential modern institutional reforms in legislative politics. Yet a core tension persists: citizens disapprove of professionalized legislatures even though these chambers possess capacity-enhancing resources—such as staff support, higher salaries, and longer sessions—that may improve representation and policymaking. We offer one explanation for this disapproval: citizens perceive professional legislatures as dominated by legislators from white-collar backgrounds. Consequently, we argue that opposition to professionalism stems, in part, from a belief that white-collar legislators may not represent society’s interests broadly. Evidence from a preregistered conjoint experiment and observational analyses using the Cooperative Election Study (CES) supports this claim. Respondents associate professionalism with a legislature primarily composed of white-collar lawmakers, whom they do not believe govern to benefit the general public. These findings suggest that opposition to legislative professionalism likely reflects a rejection of white-collar government rather than repudiation of the institutional gains from
+professionalization. </i>
+</details>
+
+---
+
 **I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
 Jacob M. Lollis and Mackenzie R. Dobson.<br>
 *PS: Political Science & Politics,* 2025.<br>
@@ -104,26 +122,6 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 # Working Papers
 
 <div style="margin-left:2.5rem;" markdown="1">
-
-**Legislative Professionalism and Perceptions of White-Collar Government** <br>
-Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
-<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Conditionally Accepted at the *Journal of Political Institutions and Political Economy*<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> February 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span> SPPC 2024<br>
-</div>
-
-<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[Paper](/files/Lollis-cashing.pdf){: .btn--research}
-</div>
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>The professionalization of American state legislatures is among the most consequential modern institutional reforms in legislative politics. Yet a core tension persists: citizens disapprove of professionalized legislatures even though these chambers possess capacity-enhancing resources—such as staff support, higher salaries, and longer sessions—that may improve representation and policymaking. We offer one explanation for this disapproval: citizens perceive professional legislatures as dominated by legislators from white-collar backgrounds. Consequently, we argue that opposition to professionalism stems, in part, from a belief that white-collar legislators may not represent society’s interests broadly. Evidence from a preregistered conjoint experiment and observational analyses using the Cooperative Election Study (CES) supports this claim. Respondents associate professionalism with a legislature primarily composed of white-collar lawmakers, whom they do not believe govern to benefit the general public. These findings suggest that opposition to legislative professionalism likely reflects a rejection of white-collar government rather than repudiation of the institutional gains from
-professionalization. </i>
-</details>
-
----
 
 
 **Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
