@@ -128,7 +128,7 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 Jacob M. Lollis  <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
 <span style="color:#777;font-weight:600;">Conference Presentations:</span> SPSA 2026, MPSA 2026<br>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
@@ -137,20 +137,16 @@ Jacob M. Lollis  <br>
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Although increased racial diversity in American legislatures has expanded attention to race,
-particularly among nonwhite lawmakers, we know much less about how committee racial diversity shapes interactions between nonwhite and white legislators. I argue that repeated contact with nonwhite lawmakers in racially diverse committees may shape how white Democrats
-engage race-related issues, making them more likely to support race-related hearing statements with evidence. To test this expectation, I combine large-scale text classification with a detailed content analysis of more than 11,000 race-based committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white Democrats serving on racially diverse committees are more likely to reference evidence when discussing race and to cite the same sources as their nonwhite colleagues. I then show that this relationship is consistent with white Democrats learning from nonwhite lawmakers’ use of evidence, though I am unable to fully rule out all alternative explanations. Finally, I demonstrate that race-based expertise is associated with substantive representation, as legislators who more frequently cite evidence when discussing race are more effective at advancing race-related legislation. Together, these findings suggest that descriptive representation may foster substantive representation, in part, by shaping how white Democrats engage race-related issues in racially diverse legislative committees.</i>
+<i>Research on descriptive representation has primarily examined whether and how descriptive representatives themselves advance group interests. In the context of race, this work shows that nonwhite lawmakers advance nonwhite interests, but less is known about whether non- white representation also shapes white lawmakers’ behavior. I argue that repeated contact with nonwhite lawmakers in racially diverse committees may shape how white Democrats en- gage race-related issues, making them more likely to support race-related hearing statements with evidence. To test this expectation, I combine large-scale text classification with a de- tailed content analysis of more than 11,000 race-related committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white Democrats serving on racially diverse committees are more likely to cite evidence when discussing race and to cite the same sources as their nonwhite colleagues. I also show that race-based expertise is associated with substantive representation: legislators who more frequently cite evidence when discussing race are more effective at advancing race-related legislation. Together, these findings suggest that descriptive representation may foster substantive representation, in part, by shaping how white Democrats engage race-related issues in racially diverse legislative committees.</i>
 </details>
 
 ---
 
-**Congressional Attention to Abortion after *Dobbs*: How
-Representational and Electoral Incentives Selectively
-Shape Issue Attention**  <br>
+**Congressional Attention to Abortion after *Dobbs*: A Theory of Representational and Party Incentive Alignment**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> April 2026<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
 <span style="color:#777;font-weight:600;">Conference Presentations:</span> SPSA 2026, MPSA 2026<br>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
@@ -159,9 +155,7 @@ Jacob M. Lollis and Mackenzie R. Dobson  <br>
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Landmark Supreme Court rulings can reshape policy, rights, and public opinion, but their effects on congressional issue attention remain less clear. We argue that such rulings do not uniformly reshape congressional attention; instead, they do so selectively, de-
-pending on how legislators’ representational and electoral incentives align. We test this argument in the case of Dobbs v. Jackson Women’s Health Organization (2022). We argue that, after Dobbs, abortion attention increased only when gender-linked representational consid-
-erations and party-based electoral incentives converged. These incentives aligned for female Democrats, but female Republicans faced electoral risks in foregrounding abortion, while male legislators faced weaker gender-linked representational incentives. Using nearly 1.6M statements from U.S. House committee hearings, we leverage the leak of the draft opinion in a difference-in-differences design that estimates differential changes in abortion attention across party and gender. Pre-treatment trends show no systematic differences. After the leak, female Democrats increased abortion-related references relative to female Republicans, with no change among male legislators.</i>
+<i>Landmark Supreme Court rulings can reshape policy, rights, and public opinion, but their effects on congressional issue attention remain less clear. We develop an incentive-alignment theory of congressional issue attention, arguing that judicial decisions linked to identity-salient issues reshape attention selectively when legislators’ gender-linked and party incentives align. We test this argument using *Dobbs v. Jackson Women’s Health Organization* (2022). After *Dobbs*, Democratic female legislators faced reinforcing incentives: abortion was both gender-salient and electorally advantageous for Democrats to foreground. Republican female legislators faced cross-cutting incentives: abortion remained gender-salient but became electorally risky for Republicans. Treating the leaked draft opinion as the shock date, we estimate differential within-legislator changes in abortion attention across party and gender using nearly 1.6 million legislator statements from U.S. House committee hearings. Pre-leak trends show no systematic differences across groups. After the leak, Democratic female legislators increased abortion-related references relative to Republican female legislators; pooled triple-interaction models further show that this party-based increase was significantly larger among female legislators than among male legislators.</i>
 </details>
 
 ---
@@ -188,7 +182,7 @@ show that policy success varies widely across chambers and is most concentrated 
 **Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024** <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Pre-Review<br>
+<span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
