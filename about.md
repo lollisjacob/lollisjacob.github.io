@@ -23,7 +23,7 @@ redirect_from:
 
 Welcome! I am an **Assistant Professor of Political Science** in the [School of Public and International Affairs](https://researchdirectory.uc.edu/p/lollisjm?_gl=1*17pws97*_ga*MTU3NTg4MDI5My4xNzU5MjY4MzQx*_ga_7H1FCKXZ4Y*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTczJGoyNiRsMCRoMA..*_ga_LSJTQ7TZ38*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..*_ga_CWY9357HWN*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..) at the **University of Cincinnati**. I am also a Research Affiliate with the [Portman Center for Policy Solutions](https://www.artsci.uc.edu/social-sciences/public-and-international-affairs/portman-center.html). 
 
-I study American political institutions, with a focus on representation, legislative behavior, and effective lawmaking. My current research projects explore the consequences of descriptive representation, the dynamics of bipartisanship in the U.S. Congress, and the conditions that facilitate effective lawmaking. I specialize in quantitative methods, machine learning, causal inference, and text-as-data approaches. My work has been published or is forthcoming in outlets such as *Legislative Studies Quarterly*, *Political Research Quarterly*, *PS: Political Science & Politics*, and *State Politics & Policy Quarterly*.
+I study American political institutions, with a focus on representation, legislative behavior, and effective lawmaking. My current research projects explore the consequences of descriptive representation, the dynamics of bipartisanship, and the conditions that facilitate effective lawmaking in the U.S. Congress. I specialize in quantitative methods, machine learning, causal inference, and text-as-data approaches. My work has been published or is forthcoming in outlets such as *Legislative Studies Quarterly*, *Political Research Quarterly*, *PS: Political Science & Politics*, and *State Politics & Policy Quarterly*.
 
 I received my Ph.D. in Political Science from the University of Virginia in 2025. Before UVA, I earned a B.A. in Politics and International Affairs, with a minor in Poverty Studies, from Furman University.
 
@@ -37,11 +37,7 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 Jacob M. Lollis  <br>
 *Legislative Studies Quarterly,* 2026.<br>
 
-<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span> SPSA 2026, MPSA 2026<br>
-</div>
+
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-learning.pdf){: .btn--research}
 </div>
