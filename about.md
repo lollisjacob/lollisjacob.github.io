@@ -23,7 +23,7 @@ redirect_from:
 
 Welcome! I am an **Assistant Professor of Political Science** in the [School of Public and International Affairs](https://researchdirectory.uc.edu/p/lollisjm?_gl=1*17pws97*_ga*MTU3NTg4MDI5My4xNzU5MjY4MzQx*_ga_7H1FCKXZ4Y*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTczJGoyNiRsMCRoMA..*_ga_LSJTQ7TZ38*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..*_ga_CWY9357HWN*czE3NjM1NTM3MDckbzMyJGcxJHQxNzYzNTczOTY5JGozMCRsMCRoMA..) at the **University of Cincinnati**. I am also a Research Affiliate with the [Portman Center for Policy Solutions](https://www.artsci.uc.edu/social-sciences/public-and-international-affairs/portman-center.html). 
 
-I study American political institutions, with a focus on representation, legislative behavior, and effective lawmaking. Across my research, I examine how race, class, and LGBTQ+ identities shape who runs for office, how lawmakers navigate legislative institutions once elected, and whose interests representative institutions advance. My work uses quantitative methods, machine learning, causal inference, and text-as-data approaches, and has been published in outlets such as *Political Research Quarterly*, *PS: Political Science & Politics*, and *State Politics & Policy Quarterly*.
+I study American political institutions, with a focus on representation, legislative behavior, and effective lawmaking. My current research projects explore the consequences of descriptive representation, the dynamics of bipartisanship in the U.S. Congress, and the conditions that facilitate effective lawmaking. I specialize in quantitative methods, machine learning, causal inference, and text-as-data approaches. My work has been published or is forthcoming in outlets such as *Legislative Studies Quarterly*, *Political Research Quarterly*, *PS: Political Science & Politics*, and *State Politics & Policy Quarterly*.
 
 I received my Ph.D. in Political Science from the University of Virginia in 2025. Before UVA, I earned a B.A. in Politics and International Affairs, with a minor in Poverty Studies, from Furman University.
 
@@ -32,6 +32,26 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 # Publications
 
 <div style="margin-left:2.5rem;" markdown="1">
+
+**Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
+Jacob M. Lollis  <br>
+*Legislative Studies Quarterly,* 2026.<br>
+
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
+<span style="color:#777;font-weight:600;">Conference Presentations:</span> SPSA 2026, MPSA 2026<br>
+</div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+[Paper](/files/Lollis-learning.pdf){: .btn--research}
+</div>
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Research on descriptive representation has primarily examined whether and how descriptive representatives themselves advance group interests. In the context of race, this work shows that nonwhite lawmakers advance nonwhite interests, but less is known about whether non- white representation also shapes white lawmakers’ behavior. I argue that repeated contact with nonwhite lawmakers in racially diverse committees may shape how white Democrats en- gage race-related issues, making them more likely to support race-related hearing statements with evidence. To test this expectation, I combine large-scale text classification with a de- tailed content analysis of more than 11,000 race-related committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white Democrats serving on racially diverse committees are more likely to cite evidence when discussing race and to cite the same sources as their nonwhite colleagues. I also show that race-based expertise is associated with substantive representation: legislators who more frequently cite evidence when discussing race are more effective at advancing race-related legislation. Together, these findings suggest that descriptive representation may foster substantive representation, in part, by shaping how white Democrats engage race-related issues in racially diverse legislative committees.</i>
+</details>
+
+---
 
 **Legislative Professionalism and Perceptions of White-Collar Government** <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
@@ -124,23 +144,6 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 <div style="margin-left:2.5rem;" markdown="1">
 
 
-**Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
-Jacob M. Lollis  <br>
-<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span> SPSA 2026, MPSA 2026<br>
-</div>
-<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[Paper](/files/Lollis-learning.pdf){: .btn--research}
-</div>
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>Research on descriptive representation has primarily examined whether and how descriptive representatives themselves advance group interests. In the context of race, this work shows that nonwhite lawmakers advance nonwhite interests, but less is known about whether non- white representation also shapes white lawmakers’ behavior. I argue that repeated contact with nonwhite lawmakers in racially diverse committees may shape how white Democrats en- gage race-related issues, making them more likely to support race-related hearing statements with evidence. To test this expectation, I combine large-scale text classification with a de- tailed content analysis of more than 11,000 race-related committee hearing statements and 87,000 full bill texts from the 105th–117th Congresses. Using a within-legislator design, I find that white Democrats serving on racially diverse committees are more likely to cite evidence when discussing race and to cite the same sources as their nonwhite colleagues. I also show that race-based expertise is associated with substantive representation: legislators who more frequently cite evidence when discussing race are more effective at advancing race-related legislation. Together, these findings suggest that descriptive representation may foster substantive representation, in part, by shaping how white Democrats engage race-related issues in racially diverse legislative committees.</i>
-</details>
-
----
 
 **Congressional Attention to Abortion after *Dobbs*: A Theory of Representational and Party Incentive Alignment**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
