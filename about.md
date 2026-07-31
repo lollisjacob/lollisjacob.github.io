@@ -37,7 +37,7 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 Jacob M. Lollis  <br>
 *Legislative Studies Quarterly,* 2026.<br>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[PDF](/files/Lollis-learning.pdf){: .btn--research} [DOI](https://doi.org/10.1111/lsq.70087Digital Object Identifier (DOI)){: .btn--research} 
+[PDF](/files/Lollis-learning.pdf){: .btn--research} [DOI](https://doi.org/10.1111/lsq.70087) Digital Object Identifier (DOI)){: .btn--research} 
 </div>
 
 
