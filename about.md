@@ -36,11 +36,10 @@ I received my Ph.D. in Political Science from the University of Virginia in 2025
 **Learning in Committee? How Racial Diversity Shapes Speech, Evidence Use, and Substantive Representation in Congress**  <br>
 Jacob M. Lollis  <br>
 *Legislative Studies Quarterly,* 2026.<br>
-
-
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[Paper](/files/Lollis-learning.pdf){: .btn--research}
+[PDF](/files/Lollis-learning.pdf){: .btn--research} [DOI](https://doi.org/10.1111/lsq.70087Digital Object Identifier (DOI)){: .btn--research} 
 </div>
+
 
 <details>
   <summary><b>Abstract</b></summary>
