@@ -92,8 +92,8 @@ Jacob M. Lollis <br>
 
 ---
 
- **Are Workers Effective Lawmakers?** <br>
- Jacob M. Lollis <br>
+**Are Workers Effective Lawmakers?** <br>
+Jacob M. Lollis <br>
 *State Politics & Policy Quarterly*, 2024. <br>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [PDF](/files/Lollis-Workers.pdf){: .btn--research} [DOI](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/are-workers-effective-lawmakers/7752DB8A9F3ABE15AF451CABFADC4F40){: .btn--research} [Replication](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/WFVTCW){: .btn--research}
@@ -135,9 +135,6 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 </div>
 
 # Working Papers
-
-<div style="margin-left:2.5rem;" markdown="1">
-
 
 
 **Congressional Attention to Abortion after *Dobbs*: A Theory of Representational and Party Incentive Alignment**  <br>
@@ -229,4 +226,3 @@ Mackenzie R. Dobson and Jacob M. Lollis <br>
 <!-- END BIPARTY DATA SOFTWARE SECTION -->
 
 &nbsp;
-
