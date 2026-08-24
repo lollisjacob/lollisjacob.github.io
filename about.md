@@ -52,11 +52,7 @@ Jacob M. Lollis  <br>
 Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland <br>
 *Journal of Political Institutions and Political Economy,* 2026.<br>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-</div>
-
-<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
- [PDF](/files/Lollis-cashing.pdf){: .btn--research} [DOI](https://www.emerald.com/jpipe/article-abstract/doi/10.1108/JPIPE-10-2025-0027/1391785/Legislative-professionalism-and-perceptions-of?redirectedFrom=fulltext){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LUICHB){: .btn--research}
-</div>
+[PDF](/files/Lollis-cashing.pdf){: .btn--research} [DOI](https://www.emerald.com/jpipe/article-abstract/doi/10.1108/JPIPE-10-2025-0027/1391785/Legislative-professionalism-and-perceptions-of?redirectedFrom=fulltext){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LUICHB){: .btn--research}
 </div>
 
 <details>
