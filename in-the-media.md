@@ -62,6 +62,13 @@ layout: archive
 <div class="media-list">
 
 <div class="media-card">
+  <div class="media-meta">Center for Effective Lawmaking · August 2026</div>
+  <p class="media-title">Meet our Faculty Affiliate: Jacob Lollis</p>
+  <p class="media-description">The Center for Effective Lawmaking announced Jacob M. Lollis as one of its newest faculty affiliates, highlighting his research on descriptive representation, bipartisanship, and effective lawmaking in the U.S. Congress.</p>
+  <a href="https://thelawmakers.org/about-the-cel/meet-our-faculty-affiliate-jacob-lollis" target="_blank" rel="noopener" class="btn--research">Read Feature</a>
+</div>
+
+<div class="media-card">
   <div class="media-meta">Center for Effective Lawmaking · June 15, 2026</div>
   <p class="media-title">Congressional Bipartisanship Scores by Member and Issue Area, 1983–2024</p>
   <p class="media-description">The Center for Effective Lawmaking featured the Congressional Bipartisanship Scores project, a dataset developed with Mackenzie R. Dobson that measures how members of Congress attract and offer cross-party support across time and policy areas.</p>
