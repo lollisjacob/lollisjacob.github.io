@@ -186,14 +186,13 @@ Mackenzie R. Dobson and Jacob M. Lollis <br>
 <i> Although bipartisanship is central to the study of legislative behavior and often necessary for policymaking success, scholars lack a centralized, publicly accessible, and consistently updated dataset measuring legislators’ propensity to offer and attract cross-party support over time and across issue areas. As a result, researchers often construct different measures of bipartisanship, making it harder for scholars to build on existing work and engage in cumulative conversations about whether bipartisanship is declining, who engages in it, and which issues facilitate cross-party collaboration. We introduce a dataset of Congressional Bipartisanship Scores (CBS) for all members of the U.S. House and Senate from 1983 to 2024. Built from more than 2.4 million cosponsorship decisions on 147,669 bills, the dataset provides two member-term measures: attracting original out-party cosponsors to one’s own bills and offering original cosponsorship to out-party-sponsored bills. The dataset includes aggregate and issue-specific scores across 34 policy areas for 2,056 legislators and 11,549 legislator-term observations. To facilitate broad reuse, we make the data publicly available through Harvard Dataverse and the R package, biparty. </i>
 </details>
 
----
 
 ---
 **Performative Bipartisanship** <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
+<span style="color:#777;font-weight:600;">Status:</span> APSA 2026<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> August 2026<br>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
 [Paper](/files/Lollis-performative.pdf){: .btn--research}
