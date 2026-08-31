@@ -188,6 +188,23 @@ Mackenzie R. Dobson and Jacob M. Lollis <br>
 
 ---
 
+---
+**Performative Bipartisanship** <br>
+Mackenzie R. Dobson and Jacob M. Lollis <br>
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
+</div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+[Paper](/files/Lollis-performative.pdf){: .btn--research}
+</div>
+<details>
+  <summary><b>Abstract</b></summary>
+<i>  Why has bipartisanship persisted in Congress despite rising partisan polarization? We argue that existing measures conflate sincere bipartisanship, in which legislators serve as original cosponsors of out-party bills and help build cross-party coalitions, with performative bipartisanship, a form of late-stage out-party cosponsorship that occurs only after others have absorbed the initial political costs of cooperation. We develop the concept of performative bipartisanship and theorize that legislators engage in it to resolve the tension between avoiding party retribution for working with the out party and the electoral need to campaign on bipartisan credentials. Using more than 2.4 million cosponsorship decisions on 147,669 bills introduced in the U.S. House and Senate from 1983 to 2024, we find that performative bipartisanship is most common among minority-party legislators, House members, and legislators considering bills in partisan issue areas, as well as among electorally vulnerable, ideologically moderate, and less experienced legislators. Finally, performative bipartisanship improves subsequent electoral performance among vulnerable legislators but reduces legislative effectiveness. These findings reshape how scholars conceptualize bipartisanship and demonstrate that polarization has not eliminated congressional bipartisanship; it has changed the form that bipartisan behavior takes. </i>
+</details>
+
+---
+
 </div>
 
 # Data and Software
