@@ -61,19 +61,6 @@ Mackenzie R. Dobson, Jacob M. Lollis, Jeffrey J. Harden, and Justin H. Kirkland 
 </details>
 
 ---
-
-**I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
-Jacob M. Lollis and Mackenzie R. Dobson.<br>
-*PS: Political Science & Politics,* 2025.<br>
-<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[PDF](/files/Lollis-ps.pdf){: .btn--research} [DOI](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers/99F9DDDB008114F6D77FB27534575BF3){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
-</div>
-<details>
-  <summary><b>Abstract</b></summary>
-<i>Are LGBTQ legislators effective lawmakers? We build on theories that link voter discrimination to legislative effectiveness by arguing that voters’ biases against LGBTQ candidates narrow the candidate pool, leading to the election of only the most experienced and qualified LGBTQ candidates. As a result of this electoral selection effect, we expect that LGBTQ legislators will be more effective lawmakers than their non-LGBTQ counterparts. To test this, we combine data on state legislators’ LGBTQ identification with their State Legislative Effectiveness Scores (SLES). Our findings reveal that LGBTQ legislators are meaningfully more effective than non-LGBTQ legislators. To link our findings to voter discrimination, we leverage over-time variation in discrimination toward LGBTQ individuals. Across four tests, we consistently find that LGBTQ lawmakers elected in highdiscrimination environments are more effective than those elected from less discriminatory environments.</i>
-</details>
-
----
 **Race, Contact Effects, and Effective Lawmaking in Congressional Committee Hearings**  <br>
 Jacob M. Lollis <br>
 *Political Research Quarterly,* 2025.  <br>
@@ -84,6 +71,19 @@ Jacob M. Lollis <br>
 <details>
   <summary><b>Abstract</b></summary>
 <i>Though there is strong evidence that nonwhite lawmakers introduce more racially salient legislation than white lawmakers, it is less clear whether race is a significant predictor of other legislative behavior. Given mixed findings in existing research, lawmakers’ actions in committee offer a new test of how race shapes legislative behavior. I develop new, original measures identifying race references in more than 1.4 million congressional committee hearing statements. I find that nonwhite lawmakers discuss race more frequently than white lawmakers in hearings, though white lawmakers are more likely to mention race in racially diverse hearings due to contact effects. Using a novel measure of race-issue bills, I demonstrate that lawmakers’ race statements in hearings are linked to policy representation. These findings explain how racial diversity in legislatures affects legislative speech and policy representation.</i>
+</details>
+
+---
+
+**I’m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers** <br>
+Jacob M. Lollis and Mackenzie R. Dobson.<br>
+*PS: Political Science & Politics,* 2025.<br>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+[PDF](/files/Lollis-ps.pdf){: .btn--research} [DOI](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers/99F9DDDB008114F6D77FB27534575BF3){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B){: .btn--research}
+</div>
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Are LGBTQ legislators effective lawmakers? We build on theories that link voter discrimination to legislative effectiveness by arguing that voters’ biases against LGBTQ candidates narrow the candidate pool, leading to the election of only the most experienced and qualified LGBTQ candidates. As a result of this electoral selection effect, we expect that LGBTQ legislators will be more effective lawmakers than their non-LGBTQ counterparts. To test this, we combine data on state legislators’ LGBTQ identification with their State Legislative Effectiveness Scores (SLES). Our findings reveal that LGBTQ legislators are meaningfully more effective than non-LGBTQ legislators. To link our findings to voter discrimination, we leverage over-time variation in discrimination toward LGBTQ individuals. Across four tests, we consistently find that LGBTQ lawmakers elected in highdiscrimination environments are more effective than those elected from less discriminatory environments.</i>
 </details>
 
 ---
