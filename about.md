@@ -134,6 +134,39 @@ C. Danielle Vinson and Jacob M. Lollis <br>
 
 <div style="margin-left:2.5rem;" markdown="1">
 
+
+---
+**Risky Business: The Strategic Timing of Bipartisanship in Congress** <br>
+Mackenzie R. Dobson and Jacob M. Lollis <br>
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> APSA 2026<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> August 2026<br>
+</div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+[Paper](/files/Lollis-RB.pdf){: .btn--research}
+</div>
+<details>
+  <summary><b>Abstract</b></summary>
+<i>  Why has bipartisanship persisted in Congress despite rising partisan polarization? Existing approaches largely treat bipartisanship as a question of whether legislators cooperate across party lines, overlooking a consequential dimension of that cooperation: when it occurs. We argue that legislators strategically time cross party support to manage the competing costs and benefits of bipartisan participation. Original out-party cosponsors join legislation at introduc- tion, often help develop the bill, and are among the first members of the opposing party to cross the aisle. In doing so, they bear the greatest political risks of bipartisan participation. Other legislators can reduce those risks by waiting until coalition growth provides political cover and legislative developments signal greater viability, while still claiming bipartisan credit for even- tually joining. We call this behavior strategically delayed bipartisanship. Drawing on elite interviews with members of Congress and their staff and more than 2.4 million cosponsorship decisions across 147,669 House and Senate bills from 1983 to 2024, we develop a new measure that distinguishes strategically delayed from original bipartisan participation. Strategic delay is most common when the partisan costs of crossing the aisle are highest: among minority- party members, in the House, and on more partisan issues. It is also more common among electorally vulnerable and ideologically moderate legislators, for whom a bipartisan reputa- tion should be electorally valuable. Among vulnerable legislators, strategic delay is associated with stronger subsequent electoral performance. However, legislators who engage in more strategically delayed bipartisanship subsequently attract fewer original out-party cosponsors for their own bills and exhibit lower legislative effectiveness. Therefore, we reconceptualize bipartisanship as a dynamic, strategic choice about when legislators cross party lines, showing how legislators can capture the electoral rewards of bipartisanship while avoiding many of the political risks of leading bipartisan cooperation. </i>
+</details>
+
+---
+**Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024** <br>
+Mackenzie R. Dobson and Jacob M. Lollis <br>
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit, *Scientific Data*<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
+</div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+[Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
+</div>
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i> Although bipartisanship is central to the study of legislative behavior and often necessary for policymaking success, scholars lack a centralized, publicly accessible, and consistently updated dataset measuring legislators’ propensity to offer and attract cross-party support over time and across issue areas. As a result, researchers often construct different measures of bipartisanship, making it harder for scholars to build on existing work and engage in cumulative conversations about whether bipartisanship is declining, who engages in it, and which issues facilitate cross-party collaboration. We introduce a dataset of Congressional Bipartisanship Scores (CBS) for all members of the U.S. House and Senate from 1983 to 2024. Built from more than 2.4 million cosponsorship decisions on 147,669 bills, the dataset provides two member-term measures: attracting original out-party cosponsors to one’s own bills and offering original cosponsorship to out-party-sponsored bills. The dataset includes aggregate and issue-specific scores across 34 policy areas for 2,056 legislators and 11,549 legislator-term observations. To facilitate broad reuse, we make the data publicly available through Harvard Dataverse and the R package, biparty. </i>
+</details>
+
+---
 **Congressional Attention to Abortion after *Dobbs*: A Theory of Representational and Party Incentive Alignment**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
@@ -166,38 +199,6 @@ Jacob M. Lollis and Todd Makse  <br>
 <details>
   <summary><b>Abstract</b></summary>
 <i>Research on legislative effectiveness has largely examined why some legislators are more successful at advancing and passing policy than others. Yet legislatures also vary in how broadly policymaking success is shared across members. In this paper, we examine how institutional design shapes the distribution of policymaking power within legislatures. To do so, we develop the Effective Legislator Ratio (ELR), a chamber-level measure that captures the share of legislators responsible for policy success. Using data from 94 U.S. state legislative chambers from 1997 to 2018, we show that policy success varies widely across chambers and is most concentrated for consequential legislation. Policymaking opportunity (i.e., chamber size and bill introduction limits) is more strongly associated with this distribution than agenda power (i.e., agenda control and leadership powers). Finally, when effectiveness is concentrated, new legislators adapt their cosponsorship strategies by learning which collaborators are most likely to advance legislation successfully. These findings suggest that legislatures vary systematically in the number of legislators in a chamber who hold policymaking power, with consequences for how new legislators make cosponsorship decisions.</i>
-</details>
-
----
-**Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024** <br>
-Mackenzie R. Dobson and Jacob M. Lollis <br>
-<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit, *Scientific Data*<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
-</div>
-<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[Paper](/files/Lollis-SD.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
-</div>
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i> Although bipartisanship is central to the study of legislative behavior and often necessary for policymaking success, scholars lack a centralized, publicly accessible, and consistently updated dataset measuring legislators’ propensity to offer and attract cross-party support over time and across issue areas. As a result, researchers often construct different measures of bipartisanship, making it harder for scholars to build on existing work and engage in cumulative conversations about whether bipartisanship is declining, who engages in it, and which issues facilitate cross-party collaboration. We introduce a dataset of Congressional Bipartisanship Scores (CBS) for all members of the U.S. House and Senate from 1983 to 2024. Built from more than 2.4 million cosponsorship decisions on 147,669 bills, the dataset provides two member-term measures: attracting original out-party cosponsors to one’s own bills and offering original cosponsorship to out-party-sponsored bills. The dataset includes aggregate and issue-specific scores across 34 policy areas for 2,056 legislators and 11,549 legislator-term observations. To facilitate broad reuse, we make the data publicly available through Harvard Dataverse and the R package, biparty. </i>
-</details>
-
-
----
-**Risky Business: The Strategic Timing of Bipartisanship in Congress** <br>
-Mackenzie R. Dobson and Jacob M. Lollis <br>
-<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> APSA 2026<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> August 2026<br>
-</div>
-<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[Paper](/files/Lollis-RB.pdf){: .btn--research}
-</div>
-<details>
-  <summary><b>Abstract</b></summary>
-<i>  Why has bipartisanship persisted in Congress despite rising partisan polarization? Existing approaches largely treat bipartisanship as a question of whether legislators cooperate across party lines, overlooking a consequential dimension of that cooperation: when it occurs. We argue that legislators strategically time cross party support to manage the competing costs and benefits of bipartisan participation. Original out-party cosponsors join legislation at introduc- tion, often help develop the bill, and are among the first members of the opposing party to cross the aisle. In doing so, they bear the greatest political risks of bipartisan participation. Other legislators can reduce those risks by waiting until coalition growth provides political cover and legislative developments signal greater viability, while still claiming bipartisan credit for even- tually joining. We call this behavior strategically delayed bipartisanship. Drawing on elite interviews with members of Congress and their staff and more than 2.4 million cosponsorship decisions across 147,669 House and Senate bills from 1983 to 2024, we develop a new measure that distinguishes strategically delayed from original bipartisan participation. Strategic delay is most common when the partisan costs of crossing the aisle are highest: among minority- party members, in the House, and on more partisan issues. It is also more common among electorally vulnerable and ideologically moderate legislators, for whom a bipartisan reputa- tion should be electorally valuable. Among vulnerable legislators, strategic delay is associated with stronger subsequent electoral performance. However, legislators who engage in more strategically delayed bipartisanship subsequently attract fewer original out-party cosponsors for their own bills and exhibit lower legislative effectiveness. Therefore, we reconceptualize bipartisanship as a dynamic, strategic choice about when legislators cross party lines, showing how legislators can capture the electoral rewards of bipartisanship while avoiding many of the political risks of leading bipartisan cooperation. </i>
 </details>
 
 ---
