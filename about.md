@@ -172,7 +172,7 @@ Jacob M. Lollis and Todd Makse  <br>
 **Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024** <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
+<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit, *Scientific Data*<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
@@ -186,18 +186,18 @@ Mackenzie R. Dobson and Jacob M. Lollis <br>
 
 
 ---
-**Performative Bipartisanship** <br>
+**Risky Business: The Strategic Timing of Bipartisanship in Congress** <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
 <span style="color:#777;font-weight:600;">Status:</span> APSA 2026<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> August 2026<br>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[Paper](/files/Lollis-performative.pdf){: .btn--research}
+[Paper](/files/Lollis-RB.pdf){: .btn--research}
 </div>
 <details>
   <summary><b>Abstract</b></summary>
-<i>  Why has bipartisanship persisted in Congress despite rising partisan polarization? We argue that existing measures conflate sincere bipartisanship, in which legislators serve as original cosponsors of out-party bills and help build cross-party coalitions, with performative bipartisanship, a form of late-stage out-party cosponsorship that occurs only after others have absorbed the initial political costs of cooperation. We develop the concept of performative bipartisanship and theorize that legislators engage in it to resolve the tension between avoiding party retribution for working with the out party and the electoral need to campaign on bipartisan credentials. Using more than 2.4 million cosponsorship decisions on 147,669 bills introduced in the U.S. House and Senate from 1983 to 2024, we find that performative bipartisanship is most common among minority-party legislators, House members, and legislators considering bills in partisan issue areas, as well as among electorally vulnerable, ideologically moderate, and less experienced legislators. Finally, performative bipartisanship improves subsequent electoral performance among vulnerable legislators but reduces legislative effectiveness. These findings reshape how scholars conceptualize bipartisanship and demonstrate that polarization has not eliminated congressional bipartisanship; it has changed the form that bipartisan behavior takes. </i>
+<i>  Why has bipartisanship persisted in Congress despite rising partisan polarization? Existing approaches largely treat bipartisanship as a question of whether legislators cooperate across party lines, overlooking a consequential dimension of that cooperation: when it occurs. We argue that legislators strategically time cross party support to manage the competing costs and benefits of bipartisan participation. Original out-party cosponsors join legislation at introduc- tion, often help develop the bill, and are among the first members of the opposing party to cross the aisle. In doing so, they bear the greatest political risks of bipartisan participation. Other legislators can reduce those risks by waiting until coalition growth provides political cover and legislative developments signal greater viability, while still claiming bipartisan credit for even- tually joining. We call this behavior strategically delayed bipartisanship. Drawing on elite interviews with members of Congress and their staff and more than 2.4 million cosponsorship decisions across 147,669 House and Senate bills from 1983 to 2024, we develop a new measure that distinguishes strategically delayed from original bipartisan participation. Strategic delay is most common when the partisan costs of crossing the aisle are highest: among minority- party members, in the House, and on more partisan issues. It is also more common among electorally vulnerable and ideologically moderate legislators, for whom a bipartisan reputa- tion should be electorally valuable. Among vulnerable legislators, strategic delay is associated with stronger subsequent electoral performance. However, legislators who engage in more strategically delayed bipartisanship subsequently attract fewer original out-party cosponsors for their own bills and exhibit lower legislative effectiveness. Therefore, we reconceptualize bipartisanship as a dynamic, strategic choice about when legislators cross party lines, showing how legislators can capture the electoral rewards of bipartisanship while avoiding many of the political risks of leading bipartisan cooperation. </i>
 </details>
 
 ---
