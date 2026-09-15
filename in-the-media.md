@@ -40,18 +40,6 @@ layout: archive
   color: #5a5a54;
   margin: 0 0 0.9rem 0;
 }
-.tweet-screenshot {
-  margin: 0.9rem 0 1rem 0;
-}
-.tweet-screenshot img {
-  display: block;
-  width: 100%;
-  max-width: 640px;
-  height: auto;
-  border-radius: 12px;
-  border: 1px solid #d7d7d0;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-}
 @media (max-width: 600px) {
   .media-card {
     padding: 1rem;
@@ -60,6 +48,13 @@ layout: archive
 </style>
 
 <div class="media-list">
+
+<div class="media-card">
+  <div class="media-meta">Portman Center for Policy Solutions · September 2026</div>
+  <p class="media-title">Portman Center launches Congressional Bipartisanship Scores Database</p>
+  <p class="media-description">The Portman Center for Policy Solutions announced the public launch of the Congressional Bipartisanship Scores Database, developed by Jacob M. Lollis and Mackenzie R. Dobson to measure how members of Congress offer and attract bipartisan support across time and policy areas.</p>
+  <a href="https://www.uc.edu/centers-institutes/portman/about/news.html" target="_blank" rel="noopener" class="btn--research">Read Announcement</a>
+</div>
 
 <div class="media-card">
   <div class="media-meta">Center for Effective Lawmaking · August 2026</div>
@@ -73,16 +68,6 @@ layout: archive
   <p class="media-title">Congressional Bipartisanship Scores by Member and Issue Area, 1983–2024</p>
   <p class="media-description">The Center for Effective Lawmaking featured the Congressional Bipartisanship Scores project, a dataset developed with Mackenzie R. Dobson that measures how members of Congress attract and offer cross-party support across time and policy areas.</p>
   <a href="https://thelawmakers.org/legislative-research/congressional-bipartisanship-scores-by-member-and-issue-area-1983-2024" target="_blank" rel="noopener" class="btn--research">Read Feature</a>
-</div>
-
-<div class="media-card">
-  <div class="media-meta">X Mention · June 15, 2026</div>
-  <p class="media-title">Congressional Bipartisanship Scores shared on X</p>
-  <p class="media-description">Mackenzie R. Dobson shared the new Congressional Bipartisanship Scores project on X, highlighting the dataset and linking to the Center for Effective Lawmaking feature.</p>
-  <div class="tweet-screenshot">
-    <img src="/images/in-the-media/mackenzie-cbs-tweet.png" alt="Screenshot of an X post by Mackenzie Dobson about the Congressional Bipartisanship Scores project.">
-  </div>
-  <a href="https://x.com/MackenzieDobso2/status/2066605686536937802?s=20" target="_blank" rel="noopener" class="btn--research">View Post</a>
 </div>
 
 <div class="media-card">
