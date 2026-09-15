@@ -53,7 +53,7 @@ layout: archive
   <div class="media-meta">Portman Center for Policy Solutions · September 2026</div>
   <p class="media-title">Portman Center launches Congressional Bipartisanship Scores Database</p>
   <p class="media-description">The Portman Center for Policy Solutions announced the public launch of the Congressional Bipartisanship Scores Database, developed by Jacob M. Lollis and Mackenzie R. Dobson to measure how members of Congress offer and attract bipartisan support across time and policy areas.</p>
-  <a href="https://www.uc.edu/centers-institutes/portman/about/news.html" target="_blank" rel="noopener" class="btn--research">Read Announcement</a>
+  <a href="https://www.uc.edu/content/dam/refresh/artsandsciences-62/departments/political-science/portman-center/University%20of%20Cincinnati%20Portman%20Center%20release%2009.03.26%20(1).pdf?_gl=1*w4jbml*_ga*NzAwMzQ2Nzk1LjE3ODQ1NTY5NzQ.*_ga_LSJTQ7TZ38*czE3ODk0NzM3MzkkbzExJGcxJHQxNzg5NDgwMjQ4JGo0OSRsMCRoMA..*_ga_7H1FCKXZ4Y*czE3ODk0NzM3MzkkbzExJGcxJHQxNzg5NDgwMjQ5JGo0OCRsMCRoMA..*_ga_CWY9357HWN*czE3ODk0NzM3MzkkbzExJGcxJHQxNzg5NDgwMjQ4JGo0OSRsMCRoMA..*_ga_7N8S2WV95Y*czE3ODk0NzM3MzkkbzExJGcxJHQxNzg5NDgwMjQ4JGo0OSRsMCRoMA.." target="_blank" rel="noopener" class="btn--research">Read Announcement</a>
 </div>
 
 <div class="media-card">
