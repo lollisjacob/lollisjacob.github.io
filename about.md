@@ -25,7 +25,7 @@ Welcome! I am an **Assistant Professor of Political Science** in the [School of 
 
 I study American political institutions, with a focus on representation, bipartisanship, and effective lawmaking. My research examines how descriptive identity shapes substantive representation, when legislators who do not share historically marginalized groups’ identities take up those groups’ interests, how legislators build and strategically participate in bipartisan coalitions, and how those coalitions translate policy priorities into law.
 
-I am also an applied quantitative methodologist. In my substantive research, I use causal inference, machine learning, AI-based classification, text-as-data, and large-scale data collection to develop new measures and empirical strategies. This work often produces datasets and research tools that can be reused by other scholars.
+I am also an applied quantitative methodologist. In my substantive research, I use causal inference, machine learning, AI-based classification, text-as-data, and large-scale data collection to develop new measures and empirical strategies. This work often produces datasets and research tools that can be reused by other scholars, including the [Congressional Bipartisanship Scores](https://portmancenter.uc.edu/bipartisanship/) and our R package, [biparty](https://congressional-bipartisanship-scores.github.io/).
 
 My work has been published in outlets such as *Legislative Studies Quarterly*, *Political Research Quarterly*, and *PS: Political Science & Politics*. I received my Ph.D. in Political Science from the University of Virginia in 2025. Before UVA, I earned a B.A. in Politics and International Affairs, with a minor in Poverty Studies, from Furman University.
 
