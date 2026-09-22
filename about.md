@@ -157,7 +157,7 @@ Mackenzie R. Dobson and Jacob M. Lollis <br>
 **Congressional Bipartisanship Scores by Member and Issue Area, 1983-2024** <br>
 Mackenzie R. Dobson and Jacob M. Lollis <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit, *Scientific Data*<br>
+<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit, *Nature-Scientific Data*<br>
 <span style="color:#777;font-weight:600;">Last Update:</span> June 2026<br>
 </div>
 <div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
