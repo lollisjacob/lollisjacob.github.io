@@ -14,12 +14,28 @@ layout: archive
   gap: 1rem;
   margin: 1.25rem 0 2rem 0;
 }
+
 .media-card {
   border: 1px solid #e8e8e2;
   border-radius: 8px;
   padding: 1.25rem 1.4rem;
   background: #fafaf7;
 }
+
+.media-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  color: #365f57;
+  background: #e9f1ee;
+  border: 1px solid #ccdcd6;
+  border-radius: 999px;
+  padding: 0.25rem 0.65rem;
+  margin-bottom: 0.65rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
 .media-meta {
   font-size: 12px;
   color: #8a8a82;
@@ -27,6 +43,7 @@ layout: archive
   text-transform: uppercase;
   margin-bottom: 0.35rem;
 }
+
 .media-title {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 20px;
@@ -34,12 +51,14 @@ layout: archive
   color: #1a1a18;
   margin: 0 0 0.45rem 0;
 }
+
 .media-description {
   font-size: 14px;
   line-height: 1.7;
   color: #5a5a54;
   margin: 0 0 0.9rem 0;
 }
+
 @media (max-width: 600px) {
   .media-card {
     padding: 1rem;
@@ -50,6 +69,31 @@ layout: archive
 <div class="media-list">
 
 <div class="media-card">
+  <div class="media-tag">Coverage of Congressional Bipartisanship Scores</div>
+  <div class="media-meta">New Hampshire Bulletin · September 23, 2026</div>
+  <p class="media-title">Maggie Hassan won a bipartisanship award. Please hold your applause.</p>
+  <p class="media-description">The New Hampshire Bulletin discussed the Portman Center's Bipartisan Public Service Awards and the Center's new congressional bipartisanship ranking system.</p>
+  <a href="https://newhampshirebulletin.com/2026/09/23/maggie-hassan-won-a-bipartisanship-award-please-hold-your-applause/" target="_blank" rel="noopener" class="btn--research">Read Commentary</a>
+</div>
+
+<div class="media-card">
+  <div class="media-tag">Coverage of Congressional Bipartisanship Scores</div>
+  <div class="media-meta">New Hampshire Union Leader · September 21, 2026</div>
+  <p class="media-title">Hassan grabs twin awards</p>
+  <p class="media-description">The New Hampshire Union Leader covered Senator Maggie Hassan's recognition by the Portman Center for Policy Solutions following the launch of the Congressional Bipartisanship Scores Database.</p>
+  <a href="https://www.unionleader.com/news/politics/statehouse_dome/state-house-dome-chief-justice-macdonald-went-down-swinging/" target="_blank" rel="noopener" class="btn--research">Read Coverage</a>
+</div>
+
+<div class="media-card">
+  <div class="media-tag">Coverage of Congressional Bipartisanship Scores</div>
+  <div class="media-meta">Office of U.S. Senator Maggie Hassan · September 21, 2026</div>
+  <p class="media-title">Senator Hassan Receives National Recognition for Bipartisan Policymaking from University of Cincinnati</p>
+  <p class="media-description">Senator Maggie Hassan's office highlighted the Portman Center's Congressional Bipartisanship Scores as a new public resource for understanding bipartisan activity in the U.S. Congress.</p>
+  <a href="https://www.hassan.senate.gov/news/press-releases/senator-hassan-receives-national-recognition-for-bipartisan-policymaking-from-university-of-cincinnati" target="_blank" rel="noopener" class="btn--research">Read Release</a>
+</div>
+
+<div class="media-card">
+  <div class="media-tag">Coverage of Congressional Bipartisanship Scores</div>
   <div class="media-meta">Portman Center for Policy Solutions · September 2026</div>
   <p class="media-title">Portman Center launches Congressional Bipartisanship Scores Database</p>
   <p class="media-description">The Portman Center for Policy Solutions announced the public launch of the Congressional Bipartisanship Scores Database, developed by Jacob M. Lollis and Mackenzie R. Dobson to measure how members of Congress offer and attract bipartisan support across time and policy areas.</p>
@@ -64,6 +108,7 @@ layout: archive
 </div>
 
 <div class="media-card">
+  <div class="media-tag">Coverage of Congressional Bipartisanship Scores</div>
   <div class="media-meta">Center for Effective Lawmaking · June 15, 2026</div>
   <p class="media-title">Congressional Bipartisanship Scores by Member and Issue Area, 1983–2024</p>
   <p class="media-description">The Center for Effective Lawmaking featured the Congressional Bipartisanship Scores project, a dataset developed with Mackenzie R. Dobson that measures how members of Congress attract and offer cross-party support across time and policy areas.</p>
