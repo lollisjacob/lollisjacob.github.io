@@ -72,7 +72,7 @@ layout: archive
   <div class="media-tag">Coverage of Congressional Bipartisanship Scores</div>
   <div class="media-meta">New Hampshire Bulletin · September 23, 2026</div>
   <p class="media-title">Maggie Hassan won a bipartisanship award. Please hold your applause.</p>
-  <p class="media-description">The New Hampshire Bulletin discussed the Portman Center's Bipartisan Public Service Awards and the Center's new congressional bipartisanship ranking system.</p>
+  <p class="media-description">The New Hampshire Bulletin discussed the Portman Center's Bipartisan Public Service Awards and the Center's new Congressional Bipartisanship Scores.</p>
   <a href="https://www.unionleader.com/news/politics/statehouse_dome/state-house-dome-chief-justice-macdonald-went-down-swinging/article_0cfacd18-00fd-42e7-85a6-63b21f4cfca5.amp.html" target="_blank" rel="noopener" class="btn--research">Read Commentary</a>
 </div>
 
