@@ -170,6 +170,27 @@ Mackenzie R. Dobson and Jacob M. Lollis <br>
 </details>
 
 ---
+
+
+**The Concentration of Legislative Effectiveness:
+Evidence from U.S. State Legislatures**  <br>
+Jacob M. Lollis and Todd Makse  <br>
+<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
+<span style="color:#777;font-weight:600;">Status:</span> Revise and Resubmit, *Political Research Quarterly*<br>
+<span style="color:#777;font-weight:600;">Last Update:</span> July 2026<br>
+<span style="color:#777;font-weight:600;">Conference Presentations:</span> SPPC 2024<br>
+</div>
+<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
+[Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
+</div>
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Research on legislative effectiveness has largely examined why some legislators are more successful at advancing and passing policy than others. Yet legislatures also vary in how broadly policymaking success is shared across members. In this paper, we examine how institutional design shapes the distribution of policymaking power within legislatures. To do so, we develop the Effective Legislator Ratio (ELR), a chamber-level measure that captures the share of legislators responsible for policy success. Using data from 94 U.S. state legislative chambers from 1997 to 2018, we show that policy success varies widely across chambers and is most concentrated for consequential legislation. Policymaking opportunity (i.e., chamber size and bill introduction limits) is more strongly associated with this distribution than agenda power (i.e., agenda control and leadership powers). Finally, when effectiveness is concentrated, new legislators adapt their cosponsorship strategies by learning which collaborators are most likely to advance legislation successfully. These findings suggest that legislatures vary systematically in the number of legislators in a chamber who hold policymaking power, with consequences for how new legislators make cosponsorship decisions.</i>
+</details>
+
+
+---
 **Congressional Attention to Abortion after *Dobbs*: A Theory of Representational and Party Incentive Alignment**  <br>
 Jacob M. Lollis and Mackenzie R. Dobson  <br>
 <div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
@@ -187,24 +208,7 @@ Jacob M. Lollis and Mackenzie R. Dobson  <br>
 </details>
 
 ---
-**The Concentration of Legislative Effectiveness:
-Evidence from U.S. State Legislatures**  <br>
-Jacob M. Lollis and Todd Makse  <br>
-<div style="margin:0.1rem 0 0.25rem 0.85rem;padding-left:0.7rem;border-left:2px solid #d7d7d0;color:#555;line-height:1.35;font-size:0.95em;" markdown="1">
-<span style="color:#777;font-weight:600;">Status:</span> Under Review<br>
-<span style="color:#777;font-weight:600;">Last Update:</span> July 2026<br>
-<span style="color:#777;font-weight:600;">Conference Presentations:</span> SPPC 2024<br>
-</div>
-<div style="margin:0.2rem 0 0.25rem 0;line-height:1.25;" markdown="1">
-[Paper](/files/Lollis-ELR.pdf){: .btn--research} <span class="btn--research" style="display:inline-block;margin-left:0.5rem;background:#FFF3E6;border-color:#E8B56A;color:#9A5A00;cursor:default;">📜 Center for Effective Lawmaking Working Paper Series</span>
-</div>
 
-<details>
-  <summary><b>Abstract</b></summary>
-<i>Research on legislative effectiveness has largely examined why some legislators are more successful at advancing and passing policy than others. Yet legislatures also vary in how broadly policymaking success is shared across members. In this paper, we examine how institutional design shapes the distribution of policymaking power within legislatures. To do so, we develop the Effective Legislator Ratio (ELR), a chamber-level measure that captures the share of legislators responsible for policy success. Using data from 94 U.S. state legislative chambers from 1997 to 2018, we show that policy success varies widely across chambers and is most concentrated for consequential legislation. Policymaking opportunity (i.e., chamber size and bill introduction limits) is more strongly associated with this distribution than agenda power (i.e., agenda control and leadership powers). Finally, when effectiveness is concentrated, new legislators adapt their cosponsorship strategies by learning which collaborators are most likely to advance legislation successfully. These findings suggest that legislatures vary systematically in the number of legislators in a chamber who hold policymaking power, with consequences for how new legislators make cosponsorship decisions.</i>
-</details>
-
----
 
 </div>
 
